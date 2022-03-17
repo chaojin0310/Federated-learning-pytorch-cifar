@@ -1,19 +1,16 @@
 # Federated-learning-pytorch-cifar
 
-This is a **Federated Learning** repository implemented by pytorch based on **pytorch-cifar100** (https://github.com/weiaicunzai/pytorch-cifar100).
+This is a **Federated Learning** repository implemented with pytorch based on **pytorch-cifar100** (https://github.com/weiaicunzai/pytorch-cifar100).
 
 ## Preparation
-
-- `conda install pytorch==1.6.0 torchvision==0.7.0 cudatoolkit=10.1 -c pytorch`
-- Install the packages listed in `requirements.txt`. I.e. with `pip`: run `pip3 install -r requirements.txt`.
+- Enter the repository directory (i.e., `cd Federated-learning-pytorch-cifar`).
+- Run `./setup.sh` to configure your running environment.
 
 ## Simulation
 
 ### Preprocess data
 
-Enter the repository directory (`cd pytorch-cifar100-fed`) and assign data shards to several clients.
-
-Our experiments use the following instruction:
+Assign data shards to several clients. Our experiments use the following instruction:
 
 ```shell
 python3 preprocess.py -dataset cifar-100 --iid 1 --num_users 10
@@ -90,7 +87,7 @@ python3 train.py -net squeezenet -lr 0.23 -b 32 > central_squeezenet_bs32.log
 
 ## Visualization
 
-Ensure that the eight log files listed in the simulation instructions above exist in the repo directory (`./Federated-learning-pytorch-cifar100`).
+Ensure that the eight log files contained in the simulation instructions above exist in the repo directory (i.e., `./Federated-learning-pytorch-cifar100`).
 
-Run `python3 script.py --mode fed` and `python3 script.py --mode central` to get the federated and centralized results respectively in the `experimental_results` folder.
+Run `python3 script.py --mode fed` and `python3 script.py --mode central` to get the federated and centralized results respectively. Corresponding figures will be stored in the `experimental_results` folder.
 
