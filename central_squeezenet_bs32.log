@@ -1,0 +1,1602 @@
+Files already downloaded and verified
+Files already downloaded and verified
+Training Epoch: 1 [32/50000]	Loss: 4.6542	LR: 0.230000
+Evaluating Network.....
+Test set: Epoch: 1, Average loss: 0.1315, Top1Accuracy: 0.0767, Top3Accuracy: 0.1708, Top5Accuracy: 0.2410, Time consumed:5.16s
+
+Training Epoch: 2 [32/50000]	Loss: 3.8854	LR: 0.223928
+Evaluating Network.....
+Test set: Epoch: 2, Average loss: 0.1200, Top1Accuracy: 0.1175, Top3Accuracy: 0.2406, Top5Accuracy: 0.3334, Time consumed:5.17s
+
+Training Epoch: 3 [32/50000]	Loss: 4.0522	LR: 0.218016
+Evaluating Network.....
+Test set: Epoch: 3, Average loss: 0.1229, Top1Accuracy: 0.0960, Top3Accuracy: 0.2344, Top5Accuracy: 0.3281, Time consumed:5.21s
+
+Training Epoch: 4 [32/50000]	Loss: 3.5923	LR: 0.212261
+Evaluating Network.....
+Test set: Epoch: 4, Average loss: 0.1150, Top1Accuracy: 0.1407, Top3Accuracy: 0.2964, Top5Accuracy: 0.3920, Time consumed:5.13s
+
+Training Epoch: 5 [32/50000]	Loss: 3.7232	LR: 0.206657
+Evaluating Network.....
+Test set: Epoch: 5, Average loss: 0.1153, Top1Accuracy: 0.1396, Top3Accuracy: 0.2900, Top5Accuracy: 0.3862, Time consumed:5.22s
+
+Training Epoch: 6 [32/50000]	Loss: 3.2108	LR: 0.201201
+Evaluating Network.....
+Test set: Epoch: 6, Average loss: 0.1102, Top1Accuracy: 0.1597, Top3Accuracy: 0.3203, Top5Accuracy: 0.4262, Time consumed:5.23s
+
+Training Epoch: 7 [32/50000]	Loss: 3.3053	LR: 0.195890
+Evaluating Network.....
+Test set: Epoch: 7, Average loss: 0.1441, Top1Accuracy: 0.0847, Top3Accuracy: 0.1937, Top5Accuracy: 0.2739, Time consumed:5.18s
+
+Training Epoch: 8 [32/50000]	Loss: 4.0443	LR: 0.190718
+Evaluating Network.....
+Test set: Epoch: 8, Average loss: 0.1167, Top1Accuracy: 0.1399, Top3Accuracy: 0.2947, Top5Accuracy: 0.3967, Time consumed:5.14s
+
+Training Epoch: 9 [32/50000]	Loss: 3.5546	LR: 0.185683
+Evaluating Network.....
+Test set: Epoch: 9, Average loss: 0.1194, Top1Accuracy: 0.1377, Top3Accuracy: 0.2800, Top5Accuracy: 0.3801, Time consumed:5.20s
+
+Training Epoch: 10 [32/50000]	Loss: 3.2232	LR: 0.180781
+Evaluating Network.....
+Test set: Epoch: 10, Average loss: 0.1177, Top1Accuracy: 0.1479, Top3Accuracy: 0.3095, Top5Accuracy: 0.4053, Time consumed:4.88s
+
+Training Epoch: 11 [32/50000]	Loss: 3.6109	LR: 0.176008
+Evaluating Network.....
+Test set: Epoch: 11, Average loss: 0.1040, Top1Accuracy: 0.1938, Top3Accuracy: 0.3688, Top5Accuracy: 0.4760, Time consumed:4.82s
+
+Training Epoch: 12 [32/50000]	Loss: 2.7051	LR: 0.171362
+Evaluating Network.....
+Test set: Epoch: 12, Average loss: 0.1193, Top1Accuracy: 0.1588, Top3Accuracy: 0.3249, Top5Accuracy: 0.4222, Time consumed:4.66s
+
+Training Epoch: 13 [32/50000]	Loss: 3.4372	LR: 0.166838
+Evaluating Network.....
+Test set: Epoch: 13, Average loss: 0.1183, Top1Accuracy: 0.1636, Top3Accuracy: 0.3378, Top5Accuracy: 0.4302, Time consumed:4.55s
+
+Training Epoch: 14 [32/50000]	Loss: 3.1363	LR: 0.162433
+Evaluating Network.....
+Test set: Epoch: 14, Average loss: 0.1191, Top1Accuracy: 0.1540, Top3Accuracy: 0.3051, Top5Accuracy: 0.3903, Time consumed:4.35s
+
+Training Epoch: 15 [32/50000]	Loss: 3.4012	LR: 0.158145
+Evaluating Network.....
+Test set: Epoch: 15, Average loss: 0.1048, Top1Accuracy: 0.2008, Top3Accuracy: 0.3730, Top5Accuracy: 0.4672, Time consumed:4.18s
+
+Training Epoch: 16 [32/50000]	Loss: 2.6740	LR: 0.153970
+Evaluating Network.....
+Test set: Epoch: 16, Average loss: 0.1241, Top1Accuracy: 0.1581, Top3Accuracy: 0.3284, Top5Accuracy: 0.4279, Time consumed:4.13s
+
+Training Epoch: 17 [32/50000]	Loss: 3.3931	LR: 0.149905
+Evaluating Network.....
+Test set: Epoch: 17, Average loss: 0.1010, Top1Accuracy: 0.2228, Top3Accuracy: 0.4145, Top5Accuracy: 0.5220, Time consumed:4.00s
+
+Training Epoch: 18 [32/50000]	Loss: 2.9364	LR: 0.145948
+Evaluating Network.....
+Test set: Epoch: 18, Average loss: 0.1107, Top1Accuracy: 0.1762, Top3Accuracy: 0.3505, Top5Accuracy: 0.4533, Time consumed:4.00s
+
+Training Epoch: 19 [32/50000]	Loss: 3.3543	LR: 0.142095
+Evaluating Network.....
+Test set: Epoch: 19, Average loss: 0.0997, Top1Accuracy: 0.2390, Top3Accuracy: 0.4324, Top5Accuracy: 0.5348, Time consumed:4.03s
+
+Training Epoch: 20 [32/50000]	Loss: 3.1002	LR: 0.138343
+Evaluating Network.....
+Test set: Epoch: 20, Average loss: 0.0932, Top1Accuracy: 0.2627, Top3Accuracy: 0.4594, Top5Accuracy: 0.5660, Time consumed:4.06s
+
+Training Epoch: 21 [32/50000]	Loss: 3.2331	LR: 0.134691
+Evaluating Network.....
+Test set: Epoch: 21, Average loss: 0.0952, Top1Accuracy: 0.2603, Top3Accuracy: 0.4611, Top5Accuracy: 0.5648, Time consumed:4.15s
+
+Training Epoch: 22 [32/50000]	Loss: 2.9172	LR: 0.131135
+Evaluating Network.....
+Test set: Epoch: 22, Average loss: 0.1015, Top1Accuracy: 0.2367, Top3Accuracy: 0.4335, Top5Accuracy: 0.5453, Time consumed:4.14s
+
+Training Epoch: 23 [32/50000]	Loss: 2.7631	LR: 0.127673
+Evaluating Network.....
+Test set: Epoch: 23, Average loss: 0.0957, Top1Accuracy: 0.2424, Top3Accuracy: 0.4406, Top5Accuracy: 0.5451, Time consumed:4.07s
+
+Training Epoch: 24 [32/50000]	Loss: 3.3922	LR: 0.124303
+Evaluating Network.....
+Test set: Epoch: 24, Average loss: 0.1029, Top1Accuracy: 0.2210, Top3Accuracy: 0.4058, Top5Accuracy: 0.5045, Time consumed:3.99s
+
+Training Epoch: 25 [32/50000]	Loss: 3.1084	LR: 0.121021
+Evaluating Network.....
+Test set: Epoch: 25, Average loss: 0.0938, Top1Accuracy: 0.2620, Top3Accuracy: 0.4638, Top5Accuracy: 0.5668, Time consumed:4.07s
+
+Training Epoch: 26 [32/50000]	Loss: 2.5832	LR: 0.117826
+Evaluating Network.....
+Test set: Epoch: 26, Average loss: 0.0983, Top1Accuracy: 0.2378, Top3Accuracy: 0.4307, Top5Accuracy: 0.5400, Time consumed:4.39s
+
+Training Epoch: 27 [32/50000]	Loss: 2.6836	LR: 0.114716
+Evaluating Network.....
+Test set: Epoch: 27, Average loss: 0.1092, Top1Accuracy: 0.2055, Top3Accuracy: 0.3853, Top5Accuracy: 0.4845, Time consumed:4.27s
+
+Training Epoch: 28 [32/50000]	Loss: 2.9011	LR: 0.111687
+Evaluating Network.....
+Test set: Epoch: 28, Average loss: 0.1212, Top1Accuracy: 0.1753, Top3Accuracy: 0.3217, Top5Accuracy: 0.4118, Time consumed:4.04s
+
+Training Epoch: 29 [32/50000]	Loss: 2.8686	LR: 0.108739
+Evaluating Network.....
+Test set: Epoch: 29, Average loss: 0.0885, Top1Accuracy: 0.2959, Top3Accuracy: 0.5010, Top5Accuracy: 0.6020, Time consumed:4.20s
+
+Training Epoch: 30 [32/50000]	Loss: 3.0511	LR: 0.105868
+Evaluating Network.....
+Test set: Epoch: 30, Average loss: 0.0888, Top1Accuracy: 0.3000, Top3Accuracy: 0.5045, Top5Accuracy: 0.6013, Time consumed:4.00s
+
+Training Epoch: 31 [32/50000]	Loss: 2.8928	LR: 0.103073
+Evaluating Network.....
+Test set: Epoch: 31, Average loss: 0.0959, Top1Accuracy: 0.2682, Top3Accuracy: 0.4737, Top5Accuracy: 0.5754, Time consumed:4.06s
+
+Training Epoch: 32 [32/50000]	Loss: 2.6187	LR: 0.100352
+Evaluating Network.....
+Test set: Epoch: 32, Average loss: 0.0951, Top1Accuracy: 0.2768, Top3Accuracy: 0.4776, Top5Accuracy: 0.5806, Time consumed:3.88s
+
+Training Epoch: 33 [32/50000]	Loss: 2.4112	LR: 0.097703
+Evaluating Network.....
+Test set: Epoch: 33, Average loss: 0.0934, Top1Accuracy: 0.2733, Top3Accuracy: 0.4878, Top5Accuracy: 0.5885, Time consumed:4.08s
+
+Training Epoch: 34 [32/50000]	Loss: 3.1504	LR: 0.095123
+Evaluating Network.....
+Test set: Epoch: 34, Average loss: 0.1023, Top1Accuracy: 0.2324, Top3Accuracy: 0.4223, Top5Accuracy: 0.5331, Time consumed:4.06s
+
+Training Epoch: 35 [32/50000]	Loss: 2.3684	LR: 0.092612
+Evaluating Network.....
+Test set: Epoch: 35, Average loss: 0.0928, Top1Accuracy: 0.2730, Top3Accuracy: 0.4807, Top5Accuracy: 0.5811, Time consumed:4.12s
+
+Training Epoch: 36 [32/50000]	Loss: 2.3819	LR: 0.090167
+Evaluating Network.....
+Test set: Epoch: 36, Average loss: 0.0892, Top1Accuracy: 0.2846, Top3Accuracy: 0.4926, Top5Accuracy: 0.5986, Time consumed:4.00s
+
+Training Epoch: 37 [32/50000]	Loss: 2.6220	LR: 0.087787
+Evaluating Network.....
+Test set: Epoch: 37, Average loss: 0.0909, Top1Accuracy: 0.3011, Top3Accuracy: 0.4989, Top5Accuracy: 0.6033, Time consumed:4.02s
+
+Training Epoch: 38 [32/50000]	Loss: 2.8192	LR: 0.085469
+Evaluating Network.....
+Test set: Epoch: 38, Average loss: 0.0881, Top1Accuracy: 0.3078, Top3Accuracy: 0.5257, Top5Accuracy: 0.6314, Time consumed:4.35s
+
+Training Epoch: 39 [32/50000]	Loss: 2.6377	LR: 0.083213
+Evaluating Network.....
+Test set: Epoch: 39, Average loss: 0.1017, Top1Accuracy: 0.2622, Top3Accuracy: 0.4667, Top5Accuracy: 0.5767, Time consumed:4.58s
+
+Training Epoch: 40 [32/50000]	Loss: 2.8385	LR: 0.081016
+Evaluating Network.....
+Test set: Epoch: 40, Average loss: 0.0818, Top1Accuracy: 0.3331, Top3Accuracy: 0.5524, Top5Accuracy: 0.6576, Time consumed:4.63s
+
+Training Epoch: 41 [32/50000]	Loss: 2.6150	LR: 0.078877
+Evaluating Network.....
+Test set: Epoch: 41, Average loss: 0.0870, Top1Accuracy: 0.3052, Top3Accuracy: 0.5236, Top5Accuracy: 0.6224, Time consumed:4.50s
+
+Training Epoch: 42 [32/50000]	Loss: 2.6805	LR: 0.076795
+Evaluating Network.....
+Test set: Epoch: 42, Average loss: 0.0854, Top1Accuracy: 0.3179, Top3Accuracy: 0.5314, Top5Accuracy: 0.6336, Time consumed:4.68s
+
+Training Epoch: 43 [32/50000]	Loss: 2.6043	LR: 0.074767
+Evaluating Network.....
+Test set: Epoch: 43, Average loss: 0.0859, Top1Accuracy: 0.3276, Top3Accuracy: 0.5366, Top5Accuracy: 0.6377, Time consumed:5.01s
+
+Training Epoch: 44 [32/50000]	Loss: 3.0516	LR: 0.072793
+Evaluating Network.....
+Test set: Epoch: 44, Average loss: 0.0925, Top1Accuracy: 0.2970, Top3Accuracy: 0.4998, Top5Accuracy: 0.6057, Time consumed:5.11s
+
+Training Epoch: 45 [32/50000]	Loss: 2.5699	LR: 0.070872
+Evaluating Network.....
+Test set: Epoch: 45, Average loss: 0.0879, Top1Accuracy: 0.2995, Top3Accuracy: 0.5156, Top5Accuracy: 0.6188, Time consumed:5.19s
+
+Training Epoch: 46 [32/50000]	Loss: 2.6073	LR: 0.069001
+Evaluating Network.....
+Test set: Epoch: 46, Average loss: 0.0815, Top1Accuracy: 0.3554, Top3Accuracy: 0.5675, Top5Accuracy: 0.6677, Time consumed:5.17s
+
+Training Epoch: 47 [32/50000]	Loss: 2.0596	LR: 0.067179
+Evaluating Network.....
+Test set: Epoch: 47, Average loss: 0.0768, Top1Accuracy: 0.3727, Top3Accuracy: 0.5847, Top5Accuracy: 0.6850, Time consumed:5.11s
+
+Training Epoch: 48 [32/50000]	Loss: 2.0016	LR: 0.065406
+Evaluating Network.....
+Test set: Epoch: 48, Average loss: 0.0803, Top1Accuracy: 0.3450, Top3Accuracy: 0.5641, Top5Accuracy: 0.6693, Time consumed:5.18s
+
+Training Epoch: 49 [32/50000]	Loss: 2.5571	LR: 0.063679
+Evaluating Network.....
+Test set: Epoch: 49, Average loss: 0.0788, Top1Accuracy: 0.3610, Top3Accuracy: 0.5863, Top5Accuracy: 0.6891, Time consumed:5.15s
+
+Training Epoch: 50 [32/50000]	Loss: 2.1472	LR: 0.061998
+Evaluating Network.....
+Test set: Epoch: 50, Average loss: 0.0781, Top1Accuracy: 0.3631, Top3Accuracy: 0.5760, Top5Accuracy: 0.6821, Time consumed:5.08s
+
+Training Epoch: 51 [32/50000]	Loss: 2.5459	LR: 0.060361
+Evaluating Network.....
+Test set: Epoch: 51, Average loss: 0.0863, Top1Accuracy: 0.3336, Top3Accuracy: 0.5466, Top5Accuracy: 0.6452, Time consumed:5.03s
+
+Training Epoch: 52 [32/50000]	Loss: 2.6883	LR: 0.058767
+Evaluating Network.....
+Test set: Epoch: 52, Average loss: 0.0813, Top1Accuracy: 0.3508, Top3Accuracy: 0.5616, Top5Accuracy: 0.6639, Time consumed:5.06s
+
+Training Epoch: 53 [32/50000]	Loss: 2.4655	LR: 0.057216
+Evaluating Network.....
+Test set: Epoch: 53, Average loss: 0.0795, Top1Accuracy: 0.3556, Top3Accuracy: 0.5819, Top5Accuracy: 0.6799, Time consumed:5.23s
+
+Training Epoch: 54 [32/50000]	Loss: 2.2132	LR: 0.055705
+Evaluating Network.....
+Test set: Epoch: 54, Average loss: 0.0798, Top1Accuracy: 0.3615, Top3Accuracy: 0.5697, Top5Accuracy: 0.6738, Time consumed:5.20s
+
+Training Epoch: 55 [32/50000]	Loss: 2.0084	LR: 0.054235
+Evaluating Network.....
+Test set: Epoch: 55, Average loss: 0.0783, Top1Accuracy: 0.3661, Top3Accuracy: 0.5888, Top5Accuracy: 0.6830, Time consumed:5.14s
+
+Training Epoch: 56 [32/50000]	Loss: 2.0631	LR: 0.052803
+Evaluating Network.....
+Test set: Epoch: 56, Average loss: 0.0750, Top1Accuracy: 0.3786, Top3Accuracy: 0.6076, Top5Accuracy: 0.7122, Time consumed:5.11s
+
+Training Epoch: 57 [32/50000]	Loss: 1.9858	LR: 0.051409
+Evaluating Network.....
+Test set: Epoch: 57, Average loss: 0.0756, Top1Accuracy: 0.3902, Top3Accuracy: 0.6125, Top5Accuracy: 0.7053, Time consumed:5.04s
+
+Training Epoch: 58 [32/50000]	Loss: 2.0110	LR: 0.050052
+Evaluating Network.....
+Test set: Epoch: 58, Average loss: 0.0747, Top1Accuracy: 0.3886, Top3Accuracy: 0.6107, Top5Accuracy: 0.7072, Time consumed:5.02s
+
+Training Epoch: 59 [32/50000]	Loss: 2.3264	LR: 0.048730
+Evaluating Network.....
+Test set: Epoch: 59, Average loss: 0.0710, Top1Accuracy: 0.4093, Top3Accuracy: 0.6343, Top5Accuracy: 0.7300, Time consumed:5.11s
+
+Training Epoch: 60 [32/50000]	Loss: 2.1332	LR: 0.047444
+Evaluating Network.....
+Test set: Epoch: 60, Average loss: 0.0812, Top1Accuracy: 0.3621, Top3Accuracy: 0.5898, Top5Accuracy: 0.6885, Time consumed:5.13s
+
+Training Epoch: 61 [32/50000]	Loss: 2.5742	LR: 0.046191
+Evaluating Network.....
+Test set: Epoch: 61, Average loss: 0.0760, Top1Accuracy: 0.3889, Top3Accuracy: 0.6117, Top5Accuracy: 0.7082, Time consumed:5.15s
+
+Training Epoch: 62 [32/50000]	Loss: 2.2276	LR: 0.044972
+Evaluating Network.....
+Test set: Epoch: 62, Average loss: 0.0764, Top1Accuracy: 0.3791, Top3Accuracy: 0.5958, Top5Accuracy: 0.6981, Time consumed:5.18s
+
+Training Epoch: 63 [32/50000]	Loss: 2.3861	LR: 0.043785
+Evaluating Network.....
+Test set: Epoch: 63, Average loss: 0.0714, Top1Accuracy: 0.4058, Top3Accuracy: 0.6278, Top5Accuracy: 0.7275, Time consumed:5.17s
+
+Training Epoch: 64 [32/50000]	Loss: 2.3672	LR: 0.042629
+Evaluating Network.....
+Test set: Epoch: 64, Average loss: 0.0742, Top1Accuracy: 0.3979, Top3Accuracy: 0.6181, Top5Accuracy: 0.7124, Time consumed:5.21s
+
+Training Epoch: 65 [32/50000]	Loss: 2.0883	LR: 0.041503
+Evaluating Network.....
+Test set: Epoch: 65, Average loss: 0.0707, Top1Accuracy: 0.4153, Top3Accuracy: 0.6340, Top5Accuracy: 0.7308, Time consumed:5.20s
+
+Training Epoch: 66 [32/50000]	Loss: 1.8980	LR: 0.040408
+Evaluating Network.....
+Test set: Epoch: 66, Average loss: 0.0720, Top1Accuracy: 0.4096, Top3Accuracy: 0.6285, Top5Accuracy: 0.7244, Time consumed:5.10s
+
+Training Epoch: 67 [32/50000]	Loss: 2.1910	LR: 0.039341
+Evaluating Network.....
+Test set: Epoch: 67, Average loss: 0.0738, Top1Accuracy: 0.4005, Top3Accuracy: 0.6104, Top5Accuracy: 0.7075, Time consumed:5.11s
+
+Training Epoch: 68 [32/50000]	Loss: 1.9068	LR: 0.038302
+Evaluating Network.....
+Test set: Epoch: 68, Average loss: 0.0717, Top1Accuracy: 0.4111, Top3Accuracy: 0.6266, Top5Accuracy: 0.7215, Time consumed:5.21s
+
+Training Epoch: 69 [32/50000]	Loss: 1.5421	LR: 0.037291
+Evaluating Network.....
+Test set: Epoch: 69, Average loss: 0.0720, Top1Accuracy: 0.4223, Top3Accuracy: 0.6398, Top5Accuracy: 0.7342, Time consumed:5.18s
+
+Training Epoch: 70 [32/50000]	Loss: 1.7127	LR: 0.036307
+Evaluating Network.....
+Test set: Epoch: 70, Average loss: 0.0704, Top1Accuracy: 0.4258, Top3Accuracy: 0.6436, Top5Accuracy: 0.7338, Time consumed:5.21s
+
+Training Epoch: 71 [32/50000]	Loss: 2.3567	LR: 0.035348
+Evaluating Network.....
+Test set: Epoch: 71, Average loss: 0.0662, Top1Accuracy: 0.4430, Top3Accuracy: 0.6604, Top5Accuracy: 0.7563, Time consumed:5.20s
+
+Training Epoch: 72 [32/50000]	Loss: 1.9196	LR: 0.034415
+Evaluating Network.....
+Test set: Epoch: 72, Average loss: 0.0688, Top1Accuracy: 0.4320, Top3Accuracy: 0.6565, Top5Accuracy: 0.7472, Time consumed:5.17s
+
+Training Epoch: 73 [32/50000]	Loss: 1.7891	LR: 0.033506
+Evaluating Network.....
+Test set: Epoch: 73, Average loss: 0.0625, Top1Accuracy: 0.4686, Top3Accuracy: 0.6890, Top5Accuracy: 0.7813, Time consumed:5.16s
+
+Training Epoch: 74 [32/50000]	Loss: 2.1707	LR: 0.032622
+Evaluating Network.....
+Test set: Epoch: 74, Average loss: 0.0679, Top1Accuracy: 0.4375, Top3Accuracy: 0.6608, Top5Accuracy: 0.7533, Time consumed:4.94s
+
+Training Epoch: 75 [32/50000]	Loss: 1.6264	LR: 0.031761
+Evaluating Network.....
+Test set: Epoch: 75, Average loss: 0.0651, Top1Accuracy: 0.4520, Top3Accuracy: 0.6820, Top5Accuracy: 0.7698, Time consumed:4.76s
+
+Training Epoch: 76 [32/50000]	Loss: 1.3751	LR: 0.030922
+Evaluating Network.....
+Test set: Epoch: 76, Average loss: 0.0633, Top1Accuracy: 0.4651, Top3Accuracy: 0.6852, Top5Accuracy: 0.7720, Time consumed:4.52s
+
+Training Epoch: 77 [32/50000]	Loss: 1.4067	LR: 0.030106
+Evaluating Network.....
+Test set: Epoch: 77, Average loss: 0.0678, Top1Accuracy: 0.4392, Top3Accuracy: 0.6531, Top5Accuracy: 0.7479, Time consumed:4.62s
+
+Training Epoch: 78 [32/50000]	Loss: 2.1728	LR: 0.029311
+Evaluating Network.....
+Test set: Epoch: 78, Average loss: 0.0639, Top1Accuracy: 0.4505, Top3Accuracy: 0.6815, Top5Accuracy: 0.7769, Time consumed:4.26s
+
+Training Epoch: 79 [32/50000]	Loss: 2.0089	LR: 0.028537
+Evaluating Network.....
+Test set: Epoch: 79, Average loss: 0.0652, Top1Accuracy: 0.4627, Top3Accuracy: 0.6778, Top5Accuracy: 0.7656, Time consumed:4.08s
+
+Training Epoch: 80 [32/50000]	Loss: 2.1386	LR: 0.027784
+Evaluating Network.....
+Test set: Epoch: 80, Average loss: 0.0688, Top1Accuracy: 0.4414, Top3Accuracy: 0.6651, Top5Accuracy: 0.7532, Time consumed:4.09s
+
+Training Epoch: 81 [32/50000]	Loss: 1.7874	LR: 0.027050
+Evaluating Network.....
+Test set: Epoch: 81, Average loss: 0.0611, Top1Accuracy: 0.4768, Top3Accuracy: 0.7007, Top5Accuracy: 0.7823, Time consumed:4.19s
+
+Training Epoch: 82 [32/50000]	Loss: 1.9042	LR: 0.026336
+Evaluating Network.....
+Test set: Epoch: 82, Average loss: 0.0664, Top1Accuracy: 0.4574, Top3Accuracy: 0.6649, Top5Accuracy: 0.7513, Time consumed:4.18s
+
+Training Epoch: 83 [32/50000]	Loss: 2.2636	LR: 0.025641
+Evaluating Network.....
+Test set: Epoch: 83, Average loss: 0.0667, Top1Accuracy: 0.4515, Top3Accuracy: 0.6663, Top5Accuracy: 0.7584, Time consumed:3.92s
+
+Training Epoch: 84 [32/50000]	Loss: 1.3424	LR: 0.024964
+Evaluating Network.....
+Test set: Epoch: 84, Average loss: 0.0601, Top1Accuracy: 0.4869, Top3Accuracy: 0.7102, Top5Accuracy: 0.7982, Time consumed:4.01s
+
+Training Epoch: 85 [32/50000]	Loss: 1.9522	LR: 0.024305
+Evaluating Network.....
+Test set: Epoch: 85, Average loss: 0.0645, Top1Accuracy: 0.4664, Top3Accuracy: 0.6894, Top5Accuracy: 0.7763, Time consumed:3.97s
+
+Training Epoch: 86 [32/50000]	Loss: 1.6389	LR: 0.023663
+Evaluating Network.....
+Test set: Epoch: 86, Average loss: 0.0603, Top1Accuracy: 0.4890, Top3Accuracy: 0.7121, Top5Accuracy: 0.7978, Time consumed:4.11s
+
+Training Epoch: 87 [32/50000]	Loss: 2.0195	LR: 0.023039
+Evaluating Network.....
+Test set: Epoch: 87, Average loss: 0.0638, Top1Accuracy: 0.4748, Top3Accuracy: 0.6870, Top5Accuracy: 0.7716, Time consumed:3.99s
+
+Training Epoch: 88 [32/50000]	Loss: 1.7435	LR: 0.022430
+Evaluating Network.....
+Test set: Epoch: 88, Average loss: 0.0617, Top1Accuracy: 0.4835, Top3Accuracy: 0.7077, Top5Accuracy: 0.7903, Time consumed:4.07s
+
+Training Epoch: 89 [32/50000]	Loss: 1.5817	LR: 0.021838
+Evaluating Network.....
+Test set: Epoch: 89, Average loss: 0.0642, Top1Accuracy: 0.4703, Top3Accuracy: 0.6822, Top5Accuracy: 0.7685, Time consumed:4.02s
+
+Training Epoch: 90 [32/50000]	Loss: 1.7839	LR: 0.021262
+Evaluating Network.....
+Test set: Epoch: 90, Average loss: 0.0604, Top1Accuracy: 0.4923, Top3Accuracy: 0.7096, Top5Accuracy: 0.7973, Time consumed:3.97s
+
+Training Epoch: 91 [32/50000]	Loss: 1.4524	LR: 0.020700
+Evaluating Network.....
+Test set: Epoch: 91, Average loss: 0.0598, Top1Accuracy: 0.5012, Top3Accuracy: 0.7127, Top5Accuracy: 0.7907, Time consumed:4.29s
+
+Training Epoch: 92 [32/50000]	Loss: 1.6140	LR: 0.020154
+Evaluating Network.....
+Test set: Epoch: 92, Average loss: 0.0585, Top1Accuracy: 0.5006, Top3Accuracy: 0.7236, Top5Accuracy: 0.8034, Time consumed:3.98s
+
+Training Epoch: 93 [32/50000]	Loss: 2.0810	LR: 0.019622
+Evaluating Network.....
+Test set: Epoch: 93, Average loss: 0.0564, Top1Accuracy: 0.5150, Top3Accuracy: 0.7359, Top5Accuracy: 0.8170, Time consumed:4.18s
+
+Training Epoch: 94 [32/50000]	Loss: 1.4834	LR: 0.019104
+Evaluating Network.....
+Test set: Epoch: 94, Average loss: 0.0551, Top1Accuracy: 0.5240, Top3Accuracy: 0.7446, Top5Accuracy: 0.8220, Time consumed:4.00s
+
+Training Epoch: 95 [32/50000]	Loss: 2.1538	LR: 0.018599
+Evaluating Network.....
+Test set: Epoch: 95, Average loss: 0.0601, Top1Accuracy: 0.4891, Top3Accuracy: 0.7119, Top5Accuracy: 0.7960, Time consumed:4.13s
+
+Training Epoch: 96 [32/50000]	Loss: 1.3131	LR: 0.018108
+Evaluating Network.....
+Test set: Epoch: 96, Average loss: 0.0558, Top1Accuracy: 0.5194, Top3Accuracy: 0.7362, Top5Accuracy: 0.8108, Time consumed:4.20s
+
+Training Epoch: 97 [32/50000]	Loss: 1.5994	LR: 0.017630
+Evaluating Network.....
+Test set: Epoch: 97, Average loss: 0.0569, Top1Accuracy: 0.5143, Top3Accuracy: 0.7255, Top5Accuracy: 0.8117, Time consumed:4.16s
+
+Training Epoch: 98 [32/50000]	Loss: 1.4726	LR: 0.017165
+Evaluating Network.....
+Test set: Epoch: 98, Average loss: 0.0567, Top1Accuracy: 0.5156, Top3Accuracy: 0.7314, Top5Accuracy: 0.8139, Time consumed:4.22s
+
+Training Epoch: 99 [32/50000]	Loss: 1.9838	LR: 0.016712
+Evaluating Network.....
+Test set: Epoch: 99, Average loss: 0.0551, Top1Accuracy: 0.5283, Top3Accuracy: 0.7400, Top5Accuracy: 0.8182, Time consumed:3.96s
+
+Training Epoch: 100 [32/50000]	Loss: 1.0457	LR: 0.016271
+Evaluating Network.....
+Test set: Epoch: 100, Average loss: 0.0579, Top1Accuracy: 0.5028, Top3Accuracy: 0.7247, Top5Accuracy: 0.8087, Time consumed:4.16s
+
+Training Epoch: 101 [32/50000]	Loss: 1.4842	LR: 0.015841
+Evaluating Network.....
+Test set: Epoch: 101, Average loss: 0.0581, Top1Accuracy: 0.5050, Top3Accuracy: 0.7210, Top5Accuracy: 0.8023, Time consumed:4.12s
+
+Training Epoch: 102 [32/50000]	Loss: 1.5290	LR: 0.015423
+Evaluating Network.....
+Test set: Epoch: 102, Average loss: 0.0542, Top1Accuracy: 0.5347, Top3Accuracy: 0.7455, Top5Accuracy: 0.8242, Time consumed:4.32s
+
+Training Epoch: 103 [32/50000]	Loss: 2.1716	LR: 0.015016
+Evaluating Network.....
+Test set: Epoch: 103, Average loss: 0.0599, Top1Accuracy: 0.5079, Top3Accuracy: 0.7162, Top5Accuracy: 0.7918, Time consumed:4.56s
+
+Training Epoch: 104 [32/50000]	Loss: 1.9006	LR: 0.014619
+Evaluating Network.....
+Test set: Epoch: 104, Average loss: 0.0608, Top1Accuracy: 0.5065, Top3Accuracy: 0.7171, Top5Accuracy: 0.7997, Time consumed:4.61s
+
+Training Epoch: 105 [32/50000]	Loss: 1.3242	LR: 0.014233
+Evaluating Network.....
+Test set: Epoch: 105, Average loss: 0.0544, Top1Accuracy: 0.5389, Top3Accuracy: 0.7459, Top5Accuracy: 0.8228, Time consumed:4.62s
+
+Training Epoch: 106 [32/50000]	Loss: 1.4680	LR: 0.013858
+Evaluating Network.....
+Test set: Epoch: 106, Average loss: 0.0542, Top1Accuracy: 0.5315, Top3Accuracy: 0.7539, Top5Accuracy: 0.8320, Time consumed:4.66s
+
+Training Epoch: 107 [32/50000]	Loss: 1.5791	LR: 0.013492
+Evaluating Network.....
+Test set: Epoch: 107, Average loss: 0.0535, Top1Accuracy: 0.5457, Top3Accuracy: 0.7532, Top5Accuracy: 0.8261, Time consumed:4.85s
+
+Training Epoch: 108 [32/50000]	Loss: 1.2368	LR: 0.013136
+Evaluating Network.....
+Test set: Epoch: 108, Average loss: 0.0516, Top1Accuracy: 0.5508, Top3Accuracy: 0.7652, Top5Accuracy: 0.8399, Time consumed:5.17s
+
+Training Epoch: 109 [32/50000]	Loss: 1.5418	LR: 0.012789
+Evaluating Network.....
+Test set: Epoch: 109, Average loss: 0.0533, Top1Accuracy: 0.5402, Top3Accuracy: 0.7496, Top5Accuracy: 0.8269, Time consumed:5.22s
+
+Training Epoch: 110 [32/50000]	Loss: 1.3375	LR: 0.012451
+Evaluating Network.....
+Test set: Epoch: 110, Average loss: 0.0569, Top1Accuracy: 0.5172, Top3Accuracy: 0.7385, Top5Accuracy: 0.8218, Time consumed:5.31s
+
+Training Epoch: 111 [32/50000]	Loss: 1.3506	LR: 0.012122
+Evaluating Network.....
+Test set: Epoch: 111, Average loss: 0.0520, Top1Accuracy: 0.5524, Top3Accuracy: 0.7565, Top5Accuracy: 0.8335, Time consumed:5.18s
+
+Training Epoch: 112 [32/50000]	Loss: 1.3559	LR: 0.011802
+Evaluating Network.....
+Test set: Epoch: 112, Average loss: 0.0516, Top1Accuracy: 0.5587, Top3Accuracy: 0.7613, Top5Accuracy: 0.8343, Time consumed:5.12s
+
+Training Epoch: 113 [32/50000]	Loss: 1.2710	LR: 0.011491
+Evaluating Network.....
+Test set: Epoch: 113, Average loss: 0.0482, Top1Accuracy: 0.5745, Top3Accuracy: 0.7840, Top5Accuracy: 0.8540, Time consumed:5.20s
+
+Training Epoch: 114 [32/50000]	Loss: 1.4327	LR: 0.011187
+Evaluating Network.....
+Test set: Epoch: 114, Average loss: 0.0530, Top1Accuracy: 0.5519, Top3Accuracy: 0.7559, Top5Accuracy: 0.8281, Time consumed:5.17s
+
+Training Epoch: 115 [32/50000]	Loss: 1.0484	LR: 0.010892
+Evaluating Network.....
+Test set: Epoch: 115, Average loss: 0.0525, Top1Accuracy: 0.5495, Top3Accuracy: 0.7596, Top5Accuracy: 0.8357, Time consumed:5.11s
+
+Training Epoch: 116 [32/50000]	Loss: 1.5911	LR: 0.010605
+Evaluating Network.....
+Test set: Epoch: 116, Average loss: 0.0519, Top1Accuracy: 0.5557, Top3Accuracy: 0.7614, Top5Accuracy: 0.8392, Time consumed:5.05s
+
+Training Epoch: 117 [32/50000]	Loss: 1.1669	LR: 0.010325
+Evaluating Network.....
+Test set: Epoch: 117, Average loss: 0.0511, Top1Accuracy: 0.5616, Top3Accuracy: 0.7671, Top5Accuracy: 0.8380, Time consumed:5.20s
+
+Training Epoch: 118 [32/50000]	Loss: 1.3856	LR: 0.010052
+Evaluating Network.....
+Test set: Epoch: 118, Average loss: 0.0520, Top1Accuracy: 0.5567, Top3Accuracy: 0.7636, Top5Accuracy: 0.8361, Time consumed:5.17s
+
+Training Epoch: 119 [32/50000]	Loss: 1.5681	LR: 0.009787
+Evaluating Network.....
+Test set: Epoch: 119, Average loss: 0.0495, Top1Accuracy: 0.5661, Top3Accuracy: 0.7736, Top5Accuracy: 0.8463, Time consumed:5.24s
+
+Training Epoch: 120 [32/50000]	Loss: 1.4091	LR: 0.009528
+Evaluating Network.....
+Test set: Epoch: 120, Average loss: 0.0491, Top1Accuracy: 0.5710, Top3Accuracy: 0.7811, Top5Accuracy: 0.8499, Time consumed:5.21s
+
+Training Epoch: 121 [32/50000]	Loss: 1.2640	LR: 0.009277
+Evaluating Network.....
+Test set: Epoch: 121, Average loss: 0.0501, Top1Accuracy: 0.5681, Top3Accuracy: 0.7733, Top5Accuracy: 0.8398, Time consumed:5.19s
+
+Training Epoch: 122 [32/50000]	Loss: 0.9249	LR: 0.009032
+Evaluating Network.....
+Test set: Epoch: 122, Average loss: 0.0514, Top1Accuracy: 0.5565, Top3Accuracy: 0.7660, Top5Accuracy: 0.8377, Time consumed:5.14s
+
+Training Epoch: 123 [32/50000]	Loss: 1.3670	LR: 0.008793
+Evaluating Network.....
+Test set: Epoch: 123, Average loss: 0.0499, Top1Accuracy: 0.5691, Top3Accuracy: 0.7706, Top5Accuracy: 0.8470, Time consumed:5.20s
+
+Training Epoch: 124 [32/50000]	Loss: 1.5068	LR: 0.008561
+Evaluating Network.....
+Test set: Epoch: 124, Average loss: 0.0473, Top1Accuracy: 0.5836, Top3Accuracy: 0.7879, Top5Accuracy: 0.8543, Time consumed:5.26s
+
+Training Epoch: 125 [32/50000]	Loss: 1.1467	LR: 0.008335
+Evaluating Network.....
+Test set: Epoch: 125, Average loss: 0.0494, Top1Accuracy: 0.5734, Top3Accuracy: 0.7766, Top5Accuracy: 0.8516, Time consumed:5.14s
+
+Training Epoch: 126 [32/50000]	Loss: 1.5280	LR: 0.008115
+Evaluating Network.....
+Test set: Epoch: 126, Average loss: 0.0479, Top1Accuracy: 0.5884, Top3Accuracy: 0.7813, Top5Accuracy: 0.8513, Time consumed:5.18s
+
+Training Epoch: 127 [32/50000]	Loss: 1.0066	LR: 0.007901
+Evaluating Network.....
+Test set: Epoch: 127, Average loss: 0.0479, Top1Accuracy: 0.5801, Top3Accuracy: 0.7868, Top5Accuracy: 0.8575, Time consumed:5.18s
+
+Training Epoch: 128 [32/50000]	Loss: 1.4769	LR: 0.007692
+Evaluating Network.....
+Test set: Epoch: 128, Average loss: 0.0495, Top1Accuracy: 0.5729, Top3Accuracy: 0.7781, Top5Accuracy: 0.8535, Time consumed:5.25s
+
+Training Epoch: 129 [32/50000]	Loss: 1.1292	LR: 0.007489
+Evaluating Network.....
+Test set: Epoch: 129, Average loss: 0.0468, Top1Accuracy: 0.5962, Top3Accuracy: 0.7919, Top5Accuracy: 0.8628, Time consumed:5.16s
+
+Training Epoch: 130 [32/50000]	Loss: 1.2207	LR: 0.007292
+Evaluating Network.....
+Test set: Epoch: 130, Average loss: 0.0487, Top1Accuracy: 0.5813, Top3Accuracy: 0.7822, Top5Accuracy: 0.8545, Time consumed:5.10s
+
+Training Epoch: 131 [32/50000]	Loss: 1.4606	LR: 0.007099
+Evaluating Network.....
+Test set: Epoch: 131, Average loss: 0.0479, Top1Accuracy: 0.5855, Top3Accuracy: 0.7853, Top5Accuracy: 0.8583, Time consumed:4.86s
+
+Training Epoch: 132 [32/50000]	Loss: 1.4315	LR: 0.006912
+Evaluating Network.....
+Test set: Epoch: 132, Average loss: 0.0481, Top1Accuracy: 0.5843, Top3Accuracy: 0.7826, Top5Accuracy: 0.8516, Time consumed:4.35s
+
+Training Epoch: 133 [32/50000]	Loss: 1.0935	LR: 0.006729
+Evaluating Network.....
+Test set: Epoch: 133, Average loss: 0.0454, Top1Accuracy: 0.6007, Top3Accuracy: 0.7982, Top5Accuracy: 0.8659, Time consumed:4.70s
+
+Training Epoch: 134 [32/50000]	Loss: 1.6872	LR: 0.006552
+Evaluating Network.....
+Test set: Epoch: 134, Average loss: 0.0468, Top1Accuracy: 0.5900, Top3Accuracy: 0.7929, Top5Accuracy: 0.8650, Time consumed:1.83s
+
+Training Epoch: 135 [32/50000]	Loss: 1.1294	LR: 0.006379
+Evaluating Network.....
+Test set: Epoch: 135, Average loss: 0.0459, Top1Accuracy: 0.6011, Top3Accuracy: 0.8000, Top5Accuracy: 0.8703, Time consumed:1.99s
+
+Training Epoch: 136 [32/50000]	Loss: 1.1487	LR: 0.006210
+Evaluating Network.....
+Test set: Epoch: 136, Average loss: 0.0474, Top1Accuracy: 0.5890, Top3Accuracy: 0.7905, Top5Accuracy: 0.8585, Time consumed:1.85s
+
+Training Epoch: 137 [32/50000]	Loss: 1.4391	LR: 0.006046
+Evaluating Network.....
+Test set: Epoch: 137, Average loss: 0.0474, Top1Accuracy: 0.5994, Top3Accuracy: 0.7961, Top5Accuracy: 0.8613, Time consumed:1.87s
+
+Training Epoch: 138 [32/50000]	Loss: 1.5398	LR: 0.005887
+Evaluating Network.....
+Test set: Epoch: 138, Average loss: 0.0473, Top1Accuracy: 0.5927, Top3Accuracy: 0.7904, Top5Accuracy: 0.8619, Time consumed:1.89s
+
+Training Epoch: 139 [32/50000]	Loss: 1.1045	LR: 0.005731
+Evaluating Network.....
+Test set: Epoch: 139, Average loss: 0.0468, Top1Accuracy: 0.5920, Top3Accuracy: 0.7962, Top5Accuracy: 0.8638, Time consumed:1.86s
+
+Training Epoch: 140 [32/50000]	Loss: 1.0687	LR: 0.005580
+Evaluating Network.....
+Test set: Epoch: 140, Average loss: 0.0444, Top1Accuracy: 0.6099, Top3Accuracy: 0.8086, Top5Accuracy: 0.8716, Time consumed:1.95s
+
+Training Epoch: 141 [32/50000]	Loss: 0.7747	LR: 0.005433
+Evaluating Network.....
+Test set: Epoch: 141, Average loss: 0.0439, Top1Accuracy: 0.6167, Top3Accuracy: 0.8075, Top5Accuracy: 0.8712, Time consumed:2.00s
+
+Training Epoch: 142 [32/50000]	Loss: 1.1248	LR: 0.005289
+Evaluating Network.....
+Test set: Epoch: 142, Average loss: 0.0455, Top1Accuracy: 0.6065, Top3Accuracy: 0.8040, Top5Accuracy: 0.8678, Time consumed:1.85s
+
+Training Epoch: 143 [32/50000]	Loss: 1.1387	LR: 0.005150
+Evaluating Network.....
+Test set: Epoch: 143, Average loss: 0.0444, Top1Accuracy: 0.6145, Top3Accuracy: 0.8063, Top5Accuracy: 0.8708, Time consumed:1.85s
+
+Training Epoch: 144 [32/50000]	Loss: 1.1305	LR: 0.005014
+Evaluating Network.....
+Test set: Epoch: 144, Average loss: 0.0449, Top1Accuracy: 0.6100, Top3Accuracy: 0.8081, Top5Accuracy: 0.8721, Time consumed:1.88s
+
+Training Epoch: 145 [32/50000]	Loss: 1.2747	LR: 0.004881
+Evaluating Network.....
+Test set: Epoch: 145, Average loss: 0.0439, Top1Accuracy: 0.6138, Top3Accuracy: 0.8125, Top5Accuracy: 0.8748, Time consumed:1.87s
+
+Training Epoch: 146 [32/50000]	Loss: 1.2787	LR: 0.004752
+Evaluating Network.....
+Test set: Epoch: 146, Average loss: 0.0435, Top1Accuracy: 0.6244, Top3Accuracy: 0.8115, Top5Accuracy: 0.8744, Time consumed:1.88s
+
+Training Epoch: 147 [32/50000]	Loss: 1.0944	LR: 0.004627
+Evaluating Network.....
+Test set: Epoch: 147, Average loss: 0.0459, Top1Accuracy: 0.6045, Top3Accuracy: 0.7959, Top5Accuracy: 0.8654, Time consumed:1.84s
+
+Training Epoch: 148 [32/50000]	Loss: 1.0309	LR: 0.004505
+Evaluating Network.....
+Test set: Epoch: 148, Average loss: 0.0428, Top1Accuracy: 0.6306, Top3Accuracy: 0.8142, Top5Accuracy: 0.8804, Time consumed:1.86s
+
+Training Epoch: 149 [32/50000]	Loss: 0.8297	LR: 0.004386
+Evaluating Network.....
+Test set: Epoch: 149, Average loss: 0.0441, Top1Accuracy: 0.6179, Top3Accuracy: 0.8143, Top5Accuracy: 0.8771, Time consumed:1.83s
+
+Training Epoch: 150 [32/50000]	Loss: 1.0407	LR: 0.004270
+Evaluating Network.....
+Test set: Epoch: 150, Average loss: 0.0444, Top1Accuracy: 0.6127, Top3Accuracy: 0.8097, Top5Accuracy: 0.8741, Time consumed:1.92s
+
+Training Epoch: 151 [32/50000]	Loss: 1.2492	LR: 0.004157
+Evaluating Network.....
+Test set: Epoch: 151, Average loss: 0.0444, Top1Accuracy: 0.6160, Top3Accuracy: 0.8089, Top5Accuracy: 0.8745, Time consumed:1.89s
+
+Training Epoch: 152 [32/50000]	Loss: 0.7756	LR: 0.004048
+Evaluating Network.....
+Test set: Epoch: 152, Average loss: 0.0424, Top1Accuracy: 0.6316, Top3Accuracy: 0.8246, Top5Accuracy: 0.8826, Time consumed:1.83s
+
+Training Epoch: 153 [32/50000]	Loss: 0.9382	LR: 0.003941
+Evaluating Network.....
+Test set: Epoch: 153, Average loss: 0.0421, Top1Accuracy: 0.6297, Top3Accuracy: 0.8241, Top5Accuracy: 0.8816, Time consumed:1.90s
+
+Training Epoch: 154 [32/50000]	Loss: 1.6577	LR: 0.003837
+Evaluating Network.....
+Test set: Epoch: 154, Average loss: 0.0428, Top1Accuracy: 0.6267, Top3Accuracy: 0.8212, Top5Accuracy: 0.8820, Time consumed:1.83s
+
+Training Epoch: 155 [32/50000]	Loss: 1.2684	LR: 0.003735
+Evaluating Network.....
+Test set: Epoch: 155, Average loss: 0.0446, Top1Accuracy: 0.6150, Top3Accuracy: 0.8116, Top5Accuracy: 0.8741, Time consumed:1.82s
+
+Training Epoch: 156 [32/50000]	Loss: 1.1332	LR: 0.003637
+Evaluating Network.....
+Test set: Epoch: 156, Average loss: 0.0431, Top1Accuracy: 0.6272, Top3Accuracy: 0.8147, Top5Accuracy: 0.8781, Time consumed:1.83s
+
+Training Epoch: 157 [32/50000]	Loss: 1.0516	LR: 0.003541
+Evaluating Network.....
+Test set: Epoch: 157, Average loss: 0.0425, Top1Accuracy: 0.6342, Top3Accuracy: 0.8181, Top5Accuracy: 0.8796, Time consumed:1.87s
+
+Training Epoch: 158 [32/50000]	Loss: 1.2094	LR: 0.003447
+Evaluating Network.....
+Test set: Epoch: 158, Average loss: 0.0432, Top1Accuracy: 0.6245, Top3Accuracy: 0.8204, Top5Accuracy: 0.8776, Time consumed:1.84s
+
+Training Epoch: 159 [32/50000]	Loss: 1.3691	LR: 0.003356
+Evaluating Network.....
+Test set: Epoch: 159, Average loss: 0.0425, Top1Accuracy: 0.6331, Top3Accuracy: 0.8238, Top5Accuracy: 0.8827, Time consumed:1.99s
+
+Training Epoch: 160 [32/50000]	Loss: 1.2712	LR: 0.003268
+Evaluating Network.....
+Test set: Epoch: 160, Average loss: 0.0441, Top1Accuracy: 0.6255, Top3Accuracy: 0.8126, Top5Accuracy: 0.8748, Time consumed:1.81s
+
+Training Epoch: 161 [32/50000]	Loss: 1.1627	LR: 0.003181
+Evaluating Network.....
+Test set: Epoch: 161, Average loss: 0.0428, Top1Accuracy: 0.6307, Top3Accuracy: 0.8222, Top5Accuracy: 0.8824, Time consumed:1.78s
+
+Training Epoch: 162 [32/50000]	Loss: 1.0556	LR: 0.003097
+Evaluating Network.....
+Test set: Epoch: 162, Average loss: 0.0412, Top1Accuracy: 0.6430, Top3Accuracy: 0.8325, Top5Accuracy: 0.8906, Time consumed:1.85s
+
+Training Epoch: 163 [32/50000]	Loss: 1.2100	LR: 0.003016
+Evaluating Network.....
+Test set: Epoch: 163, Average loss: 0.0422, Top1Accuracy: 0.6385, Top3Accuracy: 0.8256, Top5Accuracy: 0.8847, Time consumed:1.86s
+
+Training Epoch: 164 [32/50000]	Loss: 1.2067	LR: 0.002936
+Evaluating Network.....
+Test set: Epoch: 164, Average loss: 0.0427, Top1Accuracy: 0.6293, Top3Accuracy: 0.8214, Top5Accuracy: 0.8833, Time consumed:1.83s
+
+Training Epoch: 165 [32/50000]	Loss: 0.9120	LR: 0.002859
+Evaluating Network.....
+Test set: Epoch: 165, Average loss: 0.0416, Top1Accuracy: 0.6371, Top3Accuracy: 0.8294, Top5Accuracy: 0.8854, Time consumed:1.73s
+
+Training Epoch: 166 [32/50000]	Loss: 0.4317	LR: 0.002783
+Evaluating Network.....
+Test set: Epoch: 166, Average loss: 0.0424, Top1Accuracy: 0.6368, Top3Accuracy: 0.8236, Top5Accuracy: 0.8844, Time consumed:1.86s
+
+Training Epoch: 167 [32/50000]	Loss: 1.3908	LR: 0.002710
+Evaluating Network.....
+Test set: Epoch: 167, Average loss: 0.0412, Top1Accuracy: 0.6405, Top3Accuracy: 0.8272, Top5Accuracy: 0.8916, Time consumed:1.84s
+
+Training Epoch: 168 [32/50000]	Loss: 0.8667	LR: 0.002638
+Evaluating Network.....
+Test set: Epoch: 168, Average loss: 0.0422, Top1Accuracy: 0.6355, Top3Accuracy: 0.8229, Top5Accuracy: 0.8823, Time consumed:1.94s
+
+Training Epoch: 169 [32/50000]	Loss: 1.0755	LR: 0.002568
+Evaluating Network.....
+Test set: Epoch: 169, Average loss: 0.0421, Top1Accuracy: 0.6337, Top3Accuracy: 0.8272, Top5Accuracy: 0.8886, Time consumed:1.88s
+
+Training Epoch: 170 [32/50000]	Loss: 1.0309	LR: 0.002501
+Evaluating Network.....
+Test set: Epoch: 170, Average loss: 0.0413, Top1Accuracy: 0.6374, Top3Accuracy: 0.8291, Top5Accuracy: 0.8872, Time consumed:1.88s
+
+Training Epoch: 171 [32/50000]	Loss: 0.7231	LR: 0.002435
+Evaluating Network.....
+Test set: Epoch: 171, Average loss: 0.0412, Top1Accuracy: 0.6488, Top3Accuracy: 0.8299, Top5Accuracy: 0.8906, Time consumed:1.89s
+
+Training Epoch: 172 [32/50000]	Loss: 1.1693	LR: 0.002370
+Evaluating Network.....
+Test set: Epoch: 172, Average loss: 0.0412, Top1Accuracy: 0.6425, Top3Accuracy: 0.8336, Top5Accuracy: 0.8930, Time consumed:1.85s
+
+Training Epoch: 173 [32/50000]	Loss: 1.0338	LR: 0.002308
+Evaluating Network.....
+Test set: Epoch: 173, Average loss: 0.0409, Top1Accuracy: 0.6460, Top3Accuracy: 0.8367, Top5Accuracy: 0.8910, Time consumed:1.89s
+
+Training Epoch: 174 [32/50000]	Loss: 0.9547	LR: 0.002247
+Evaluating Network.....
+Test set: Epoch: 174, Average loss: 0.0419, Top1Accuracy: 0.6400, Top3Accuracy: 0.8310, Top5Accuracy: 0.8888, Time consumed:1.84s
+
+Training Epoch: 175 [32/50000]	Loss: 0.7849	LR: 0.002187
+Evaluating Network.....
+Test set: Epoch: 175, Average loss: 0.0413, Top1Accuracy: 0.6469, Top3Accuracy: 0.8335, Top5Accuracy: 0.8897, Time consumed:2.09s
+
+Training Epoch: 176 [32/50000]	Loss: 1.4200	LR: 0.002130
+Evaluating Network.....
+Test set: Epoch: 176, Average loss: 0.0416, Top1Accuracy: 0.6453, Top3Accuracy: 0.8301, Top5Accuracy: 0.8898, Time consumed:1.93s
+
+Training Epoch: 177 [32/50000]	Loss: 1.0652	LR: 0.002074
+Evaluating Network.....
+Test set: Epoch: 177, Average loss: 0.0419, Top1Accuracy: 0.6396, Top3Accuracy: 0.8251, Top5Accuracy: 0.8861, Time consumed:1.82s
+
+Training Epoch: 178 [32/50000]	Loss: 0.9349	LR: 0.002019
+Evaluating Network.....
+Test set: Epoch: 178, Average loss: 0.0410, Top1Accuracy: 0.6461, Top3Accuracy: 0.8321, Top5Accuracy: 0.8892, Time consumed:1.87s
+
+Training Epoch: 179 [32/50000]	Loss: 1.0582	LR: 0.001965
+Evaluating Network.....
+Test set: Epoch: 179, Average loss: 0.0408, Top1Accuracy: 0.6470, Top3Accuracy: 0.8312, Top5Accuracy: 0.8920, Time consumed:1.84s
+
+Training Epoch: 180 [32/50000]	Loss: 0.8785	LR: 0.001914
+Evaluating Network.....
+Test set: Epoch: 180, Average loss: 0.0406, Top1Accuracy: 0.6518, Top3Accuracy: 0.8371, Top5Accuracy: 0.8931, Time consumed:1.87s
+
+Training Epoch: 181 [32/50000]	Loss: 0.5726	LR: 0.001863
+Evaluating Network.....
+Test set: Epoch: 181, Average loss: 0.0412, Top1Accuracy: 0.6440, Top3Accuracy: 0.8291, Top5Accuracy: 0.8922, Time consumed:1.87s
+
+Training Epoch: 182 [32/50000]	Loss: 0.6935	LR: 0.001814
+Evaluating Network.....
+Test set: Epoch: 182, Average loss: 0.0419, Top1Accuracy: 0.6468, Top3Accuracy: 0.8328, Top5Accuracy: 0.8881, Time consumed:1.81s
+
+Training Epoch: 183 [32/50000]	Loss: 1.0613	LR: 0.001766
+Evaluating Network.....
+Test set: Epoch: 183, Average loss: 0.0414, Top1Accuracy: 0.6459, Top3Accuracy: 0.8353, Top5Accuracy: 0.8896, Time consumed:1.81s
+
+Training Epoch: 184 [32/50000]	Loss: 0.7036	LR: 0.001719
+Evaluating Network.....
+Test set: Epoch: 184, Average loss: 0.0407, Top1Accuracy: 0.6501, Top3Accuracy: 0.8359, Top5Accuracy: 0.8907, Time consumed:2.00s
+
+Training Epoch: 185 [32/50000]	Loss: 0.7967	LR: 0.001674
+Evaluating Network.....
+Test set: Epoch: 185, Average loss: 0.0410, Top1Accuracy: 0.6482, Top3Accuracy: 0.8360, Top5Accuracy: 0.8908, Time consumed:1.84s
+
+Training Epoch: 186 [32/50000]	Loss: 0.9239	LR: 0.001630
+Evaluating Network.....
+Test set: Epoch: 186, Average loss: 0.0400, Top1Accuracy: 0.6528, Top3Accuracy: 0.8358, Top5Accuracy: 0.8971, Time consumed:1.79s
+
+Training Epoch: 187 [32/50000]	Loss: 0.8208	LR: 0.001587
+Evaluating Network.....
+Test set: Epoch: 187, Average loss: 0.0411, Top1Accuracy: 0.6498, Top3Accuracy: 0.8330, Top5Accuracy: 0.8916, Time consumed:1.79s
+
+Training Epoch: 188 [32/50000]	Loss: 0.8442	LR: 0.001545
+Evaluating Network.....
+Test set: Epoch: 188, Average loss: 0.0411, Top1Accuracy: 0.6500, Top3Accuracy: 0.8329, Top5Accuracy: 0.8918, Time consumed:1.80s
+
+Training Epoch: 189 [32/50000]	Loss: 0.8712	LR: 0.001504
+Evaluating Network.....
+Test set: Epoch: 189, Average loss: 0.0408, Top1Accuracy: 0.6514, Top3Accuracy: 0.8346, Top5Accuracy: 0.8933, Time consumed:1.89s
+
+Training Epoch: 190 [32/50000]	Loss: 0.9547	LR: 0.001464
+Evaluating Network.....
+Test set: Epoch: 190, Average loss: 0.0407, Top1Accuracy: 0.6511, Top3Accuracy: 0.8361, Top5Accuracy: 0.8942, Time consumed:1.83s
+
+Training Epoch: 191 [32/50000]	Loss: 0.6650	LR: 0.001426
+Evaluating Network.....
+Test set: Epoch: 191, Average loss: 0.0408, Top1Accuracy: 0.6472, Top3Accuracy: 0.8350, Top5Accuracy: 0.8914, Time consumed:1.80s
+
+Training Epoch: 192 [32/50000]	Loss: 0.7650	LR: 0.001388
+Evaluating Network.....
+Test set: Epoch: 192, Average loss: 0.0401, Top1Accuracy: 0.6593, Top3Accuracy: 0.8380, Top5Accuracy: 0.8935, Time consumed:1.81s
+
+Training Epoch: 193 [32/50000]	Loss: 0.6550	LR: 0.001351
+Evaluating Network.....
+Test set: Epoch: 193, Average loss: 0.0417, Top1Accuracy: 0.6474, Top3Accuracy: 0.8335, Top5Accuracy: 0.8917, Time consumed:1.77s
+
+Training Epoch: 194 [32/50000]	Loss: 0.8421	LR: 0.001316
+Evaluating Network.....
+Test set: Epoch: 194, Average loss: 0.0406, Top1Accuracy: 0.6573, Top3Accuracy: 0.8393, Top5Accuracy: 0.8959, Time consumed:1.83s
+
+Training Epoch: 195 [32/50000]	Loss: 0.7464	LR: 0.001281
+Evaluating Network.....
+Test set: Epoch: 195, Average loss: 0.0406, Top1Accuracy: 0.6535, Top3Accuracy: 0.8363, Top5Accuracy: 0.8968, Time consumed:1.78s
+
+Training Epoch: 196 [32/50000]	Loss: 0.9027	LR: 0.001247
+Evaluating Network.....
+Test set: Epoch: 196, Average loss: 0.0403, Top1Accuracy: 0.6608, Top3Accuracy: 0.8450, Top5Accuracy: 0.8982, Time consumed:1.77s
+
+Training Epoch: 197 [32/50000]	Loss: 1.0712	LR: 0.001214
+Evaluating Network.....
+Test set: Epoch: 197, Average loss: 0.0398, Top1Accuracy: 0.6553, Top3Accuracy: 0.8413, Top5Accuracy: 0.8957, Time consumed:1.73s
+
+Training Epoch: 198 [32/50000]	Loss: 1.0333	LR: 0.001182
+Evaluating Network.....
+Test set: Epoch: 198, Average loss: 0.0401, Top1Accuracy: 0.6563, Top3Accuracy: 0.8403, Top5Accuracy: 0.8960, Time consumed:1.78s
+
+Training Epoch: 199 [32/50000]	Loss: 0.5142	LR: 0.001151
+Evaluating Network.....
+Test set: Epoch: 199, Average loss: 0.0398, Top1Accuracy: 0.6575, Top3Accuracy: 0.8436, Top5Accuracy: 0.8948, Time consumed:1.78s
+
+Training Epoch: 200 [32/50000]	Loss: 0.6798	LR: 0.001121
+Evaluating Network.....
+Test set: Epoch: 200, Average loss: 0.0396, Top1Accuracy: 0.6614, Top3Accuracy: 0.8417, Top5Accuracy: 0.8967, Time consumed:1.76s
+
+Training Epoch: 201 [32/50000]	Loss: 0.9582	LR: 0.001091
+Evaluating Network.....
+Test set: Epoch: 201, Average loss: 0.0403, Top1Accuracy: 0.6575, Top3Accuracy: 0.8422, Top5Accuracy: 0.8986, Time consumed:1.85s
+
+Training Epoch: 202 [32/50000]	Loss: 0.6891	LR: 0.001062
+Evaluating Network.....
+Test set: Epoch: 202, Average loss: 0.0407, Top1Accuracy: 0.6565, Top3Accuracy: 0.8371, Top5Accuracy: 0.8940, Time consumed:1.75s
+
+Training Epoch: 203 [32/50000]	Loss: 0.7658	LR: 0.001034
+Evaluating Network.....
+Test set: Epoch: 203, Average loss: 0.0403, Top1Accuracy: 0.6578, Top3Accuracy: 0.8428, Top5Accuracy: 0.8946, Time consumed:1.92s
+
+Training Epoch: 204 [32/50000]	Loss: 0.9446	LR: 0.001007
+Evaluating Network.....
+Test set: Epoch: 204, Average loss: 0.0404, Top1Accuracy: 0.6555, Top3Accuracy: 0.8403, Top5Accuracy: 0.8960, Time consumed:1.78s
+
+Training Epoch: 205 [32/50000]	Loss: 0.5035	LR: 0.000980
+Evaluating Network.....
+Test set: Epoch: 205, Average loss: 0.0412, Top1Accuracy: 0.6519, Top3Accuracy: 0.8361, Top5Accuracy: 0.8910, Time consumed:1.79s
+
+Training Epoch: 206 [32/50000]	Loss: 0.9126	LR: 0.000954
+Evaluating Network.....
+Test set: Epoch: 206, Average loss: 0.0407, Top1Accuracy: 0.6555, Top3Accuracy: 0.8383, Top5Accuracy: 0.8944, Time consumed:1.81s
+
+Training Epoch: 207 [32/50000]	Loss: 0.7065	LR: 0.000929
+Evaluating Network.....
+Test set: Epoch: 207, Average loss: 0.0404, Top1Accuracy: 0.6567, Top3Accuracy: 0.8395, Top5Accuracy: 0.8960, Time consumed:1.76s
+
+Training Epoch: 208 [32/50000]	Loss: 0.9040	LR: 0.000905
+Evaluating Network.....
+Test set: Epoch: 208, Average loss: 0.0408, Top1Accuracy: 0.6585, Top3Accuracy: 0.8391, Top5Accuracy: 0.8953, Time consumed:1.79s
+
+Training Epoch: 209 [32/50000]	Loss: 0.7306	LR: 0.000881
+Evaluating Network.....
+Test set: Epoch: 209, Average loss: 0.0399, Top1Accuracy: 0.6584, Top3Accuracy: 0.8410, Top5Accuracy: 0.8982, Time consumed:1.82s
+
+Training Epoch: 210 [32/50000]	Loss: 0.6786	LR: 0.000858
+Evaluating Network.....
+Test set: Epoch: 210, Average loss: 0.0395, Top1Accuracy: 0.6635, Top3Accuracy: 0.8482, Top5Accuracy: 0.8959, Time consumed:1.78s
+
+Training Epoch: 211 [32/50000]	Loss: 0.4674	LR: 0.000835
+Evaluating Network.....
+Test set: Epoch: 211, Average loss: 0.0398, Top1Accuracy: 0.6620, Top3Accuracy: 0.8462, Top5Accuracy: 0.8992, Time consumed:1.92s
+
+Training Epoch: 212 [32/50000]	Loss: 0.8145	LR: 0.000813
+Evaluating Network.....
+Test set: Epoch: 212, Average loss: 0.0400, Top1Accuracy: 0.6599, Top3Accuracy: 0.8456, Top5Accuracy: 0.8999, Time consumed:1.78s
+
+Training Epoch: 213 [32/50000]	Loss: 1.0698	LR: 0.000791
+Evaluating Network.....
+Test set: Epoch: 213, Average loss: 0.0408, Top1Accuracy: 0.6546, Top3Accuracy: 0.8438, Top5Accuracy: 0.8952, Time consumed:1.77s
+
+Training Epoch: 214 [32/50000]	Loss: 0.5995	LR: 0.000771
+Evaluating Network.....
+Test set: Epoch: 214, Average loss: 0.0404, Top1Accuracy: 0.6615, Top3Accuracy: 0.8430, Top5Accuracy: 0.8967, Time consumed:1.80s
+
+Training Epoch: 215 [32/50000]	Loss: 0.5182	LR: 0.000750
+Evaluating Network.....
+Test set: Epoch: 215, Average loss: 0.0403, Top1Accuracy: 0.6612, Top3Accuracy: 0.8399, Top5Accuracy: 0.8968, Time consumed:1.79s
+
+Training Epoch: 216 [32/50000]	Loss: 0.6655	LR: 0.000730
+Evaluating Network.....
+Test set: Epoch: 216, Average loss: 0.0408, Top1Accuracy: 0.6635, Top3Accuracy: 0.8404, Top5Accuracy: 0.8967, Time consumed:1.76s
+
+Training Epoch: 217 [32/50000]	Loss: 0.7601	LR: 0.000711
+Evaluating Network.....
+Test set: Epoch: 217, Average loss: 0.0408, Top1Accuracy: 0.6610, Top3Accuracy: 0.8424, Top5Accuracy: 0.8982, Time consumed:1.72s
+
+Training Epoch: 218 [32/50000]	Loss: 0.6732	LR: 0.000692
+Evaluating Network.....
+Test set: Epoch: 218, Average loss: 0.0405, Top1Accuracy: 0.6630, Top3Accuracy: 0.8418, Top5Accuracy: 0.8987, Time consumed:1.96s
+
+Training Epoch: 219 [32/50000]	Loss: 0.8450	LR: 0.000674
+Evaluating Network.....
+Test set: Epoch: 219, Average loss: 0.0404, Top1Accuracy: 0.6619, Top3Accuracy: 0.8410, Top5Accuracy: 0.8956, Time consumed:1.75s
+
+Training Epoch: 220 [32/50000]	Loss: 1.1626	LR: 0.000656
+Evaluating Network.....
+Test set: Epoch: 220, Average loss: 0.0406, Top1Accuracy: 0.6637, Top3Accuracy: 0.8444, Top5Accuracy: 0.8961, Time consumed:1.85s
+
+Training Epoch: 221 [32/50000]	Loss: 0.5454	LR: 0.000639
+Evaluating Network.....
+Test set: Epoch: 221, Average loss: 0.0406, Top1Accuracy: 0.6598, Top3Accuracy: 0.8422, Top5Accuracy: 0.8947, Time consumed:1.78s
+
+Training Epoch: 222 [32/50000]	Loss: 0.4466	LR: 0.000622
+Evaluating Network.....
+Test set: Epoch: 222, Average loss: 0.0408, Top1Accuracy: 0.6629, Top3Accuracy: 0.8415, Top5Accuracy: 0.8951, Time consumed:1.88s
+
+Training Epoch: 223 [32/50000]	Loss: 0.7368	LR: 0.000606
+Evaluating Network.....
+Test set: Epoch: 223, Average loss: 0.0398, Top1Accuracy: 0.6638, Top3Accuracy: 0.8464, Top5Accuracy: 0.8972, Time consumed:1.71s
+
+Training Epoch: 224 [32/50000]	Loss: 0.5785	LR: 0.000590
+Evaluating Network.....
+Test set: Epoch: 224, Average loss: 0.0401, Top1Accuracy: 0.6641, Top3Accuracy: 0.8449, Top5Accuracy: 0.8995, Time consumed:1.78s
+
+Training Epoch: 225 [32/50000]	Loss: 0.3310	LR: 0.000574
+Evaluating Network.....
+Test set: Epoch: 225, Average loss: 0.0407, Top1Accuracy: 0.6589, Top3Accuracy: 0.8425, Top5Accuracy: 0.8966, Time consumed:1.81s
+
+Training Epoch: 226 [32/50000]	Loss: 0.7246	LR: 0.000559
+Evaluating Network.....
+Test set: Epoch: 226, Average loss: 0.0405, Top1Accuracy: 0.6655, Top3Accuracy: 0.8456, Top5Accuracy: 0.8982, Time consumed:1.72s
+
+Training Epoch: 227 [32/50000]	Loss: 0.7816	LR: 0.000544
+Evaluating Network.....
+Test set: Epoch: 227, Average loss: 0.0397, Top1Accuracy: 0.6669, Top3Accuracy: 0.8474, Top5Accuracy: 0.9016, Time consumed:1.84s
+
+Training Epoch: 228 [32/50000]	Loss: 0.5492	LR: 0.000530
+Evaluating Network.....
+Test set: Epoch: 228, Average loss: 0.0408, Top1Accuracy: 0.6636, Top3Accuracy: 0.8440, Top5Accuracy: 0.8961, Time consumed:1.82s
+
+Training Epoch: 229 [32/50000]	Loss: 0.8144	LR: 0.000516
+Evaluating Network.....
+Test set: Epoch: 229, Average loss: 0.0408, Top1Accuracy: 0.6614, Top3Accuracy: 0.8407, Top5Accuracy: 0.8968, Time consumed:1.85s
+
+Training Epoch: 230 [32/50000]	Loss: 0.4656	LR: 0.000502
+Evaluating Network.....
+Test set: Epoch: 230, Average loss: 0.0404, Top1Accuracy: 0.6610, Top3Accuracy: 0.8442, Top5Accuracy: 0.8982, Time consumed:1.78s
+
+Training Epoch: 231 [32/50000]	Loss: 0.8581	LR: 0.000489
+Evaluating Network.....
+Test set: Epoch: 231, Average loss: 0.0410, Top1Accuracy: 0.6641, Top3Accuracy: 0.8436, Top5Accuracy: 0.8985, Time consumed:1.85s
+
+Training Epoch: 232 [32/50000]	Loss: 0.4837	LR: 0.000476
+Evaluating Network.....
+Test set: Epoch: 232, Average loss: 0.0412, Top1Accuracy: 0.6567, Top3Accuracy: 0.8408, Top5Accuracy: 0.8974, Time consumed:1.90s
+
+Training Epoch: 233 [32/50000]	Loss: 0.4945	LR: 0.000463
+Evaluating Network.....
+Test set: Epoch: 233, Average loss: 0.0407, Top1Accuracy: 0.6657, Top3Accuracy: 0.8459, Top5Accuracy: 0.8980, Time consumed:1.83s
+
+Training Epoch: 234 [32/50000]	Loss: 0.5928	LR: 0.000451
+Evaluating Network.....
+Test set: Epoch: 234, Average loss: 0.0411, Top1Accuracy: 0.6618, Top3Accuracy: 0.8425, Top5Accuracy: 0.8993, Time consumed:1.77s
+
+Training Epoch: 235 [32/50000]	Loss: 0.4479	LR: 0.000439
+Evaluating Network.....
+Test set: Epoch: 235, Average loss: 0.0409, Top1Accuracy: 0.6615, Top3Accuracy: 0.8431, Top5Accuracy: 0.8994, Time consumed:1.77s
+
+Training Epoch: 236 [32/50000]	Loss: 0.7453	LR: 0.000428
+Evaluating Network.....
+Test set: Epoch: 236, Average loss: 0.0409, Top1Accuracy: 0.6649, Top3Accuracy: 0.8419, Top5Accuracy: 0.8981, Time consumed:1.81s
+
+Training Epoch: 237 [32/50000]	Loss: 0.6233	LR: 0.000416
+Evaluating Network.....
+Test set: Epoch: 237, Average loss: 0.0407, Top1Accuracy: 0.6609, Top3Accuracy: 0.8442, Top5Accuracy: 0.8994, Time consumed:1.82s
+
+Training Epoch: 238 [32/50000]	Loss: 0.5680	LR: 0.000405
+Evaluating Network.....
+Test set: Epoch: 238, Average loss: 0.0410, Top1Accuracy: 0.6603, Top3Accuracy: 0.8445, Top5Accuracy: 0.8988, Time consumed:1.87s
+
+Training Epoch: 239 [32/50000]	Loss: 0.6120	LR: 0.000395
+Evaluating Network.....
+Test set: Epoch: 239, Average loss: 0.0404, Top1Accuracy: 0.6647, Top3Accuracy: 0.8466, Top5Accuracy: 0.9003, Time consumed:1.80s
+
+Training Epoch: 240 [32/50000]	Loss: 0.5260	LR: 0.000384
+Evaluating Network.....
+Test set: Epoch: 240, Average loss: 0.0413, Top1Accuracy: 0.6608, Top3Accuracy: 0.8431, Top5Accuracy: 0.8965, Time consumed:1.77s
+
+Training Epoch: 241 [32/50000]	Loss: 0.5081	LR: 0.000374
+Evaluating Network.....
+Test set: Epoch: 241, Average loss: 0.0409, Top1Accuracy: 0.6636, Top3Accuracy: 0.8424, Top5Accuracy: 0.8980, Time consumed:1.80s
+
+Training Epoch: 242 [32/50000]	Loss: 0.4049	LR: 0.000364
+Evaluating Network.....
+Test set: Epoch: 242, Average loss: 0.0407, Top1Accuracy: 0.6634, Top3Accuracy: 0.8415, Top5Accuracy: 0.8969, Time consumed:1.80s
+
+Training Epoch: 243 [32/50000]	Loss: 0.4259	LR: 0.000355
+Evaluating Network.....
+Test set: Epoch: 243, Average loss: 0.0403, Top1Accuracy: 0.6650, Top3Accuracy: 0.8479, Top5Accuracy: 0.8989, Time consumed:1.83s
+
+Training Epoch: 244 [32/50000]	Loss: 0.5734	LR: 0.000345
+Evaluating Network.....
+Test set: Epoch: 244, Average loss: 0.0413, Top1Accuracy: 0.6602, Top3Accuracy: 0.8437, Top5Accuracy: 0.8976, Time consumed:1.85s
+
+Training Epoch: 245 [32/50000]	Loss: 0.4546	LR: 0.000336
+Evaluating Network.....
+Test set: Epoch: 245, Average loss: 0.0406, Top1Accuracy: 0.6615, Top3Accuracy: 0.8463, Top5Accuracy: 0.8988, Time consumed:1.78s
+
+Training Epoch: 246 [32/50000]	Loss: 0.4007	LR: 0.000327
+Evaluating Network.....
+Test set: Epoch: 246, Average loss: 0.0408, Top1Accuracy: 0.6644, Top3Accuracy: 0.8430, Top5Accuracy: 0.8970, Time consumed:1.78s
+
+Training Epoch: 247 [32/50000]	Loss: 0.6316	LR: 0.000319
+Evaluating Network.....
+Test set: Epoch: 247, Average loss: 0.0407, Top1Accuracy: 0.6624, Top3Accuracy: 0.8459, Top5Accuracy: 0.8983, Time consumed:1.80s
+
+Training Epoch: 248 [32/50000]	Loss: 0.6204	LR: 0.000310
+Evaluating Network.....
+Test set: Epoch: 248, Average loss: 0.0407, Top1Accuracy: 0.6667, Top3Accuracy: 0.8447, Top5Accuracy: 0.8985, Time consumed:1.82s
+
+Training Epoch: 249 [32/50000]	Loss: 0.5860	LR: 0.000302
+Evaluating Network.....
+Test set: Epoch: 249, Average loss: 0.0412, Top1Accuracy: 0.6636, Top3Accuracy: 0.8424, Top5Accuracy: 0.8969, Time consumed:1.83s
+
+Training Epoch: 250 [32/50000]	Loss: 0.5682	LR: 0.000294
+Evaluating Network.....
+Test set: Epoch: 250, Average loss: 0.0407, Top1Accuracy: 0.6675, Top3Accuracy: 0.8463, Top5Accuracy: 0.8991, Time consumed:2.00s
+
+Training Epoch: 251 [32/50000]	Loss: 0.8659	LR: 0.000286
+Evaluating Network.....
+Test set: Epoch: 251, Average loss: 0.0408, Top1Accuracy: 0.6653, Top3Accuracy: 0.8435, Top5Accuracy: 0.8986, Time consumed:1.81s
+
+Training Epoch: 252 [32/50000]	Loss: 0.6433	LR: 0.000279
+Evaluating Network.....
+Test set: Epoch: 252, Average loss: 0.0414, Top1Accuracy: 0.6622, Top3Accuracy: 0.8425, Top5Accuracy: 0.8974, Time consumed:1.80s
+
+Training Epoch: 253 [32/50000]	Loss: 0.4983	LR: 0.000271
+Evaluating Network.....
+Test set: Epoch: 253, Average loss: 0.0410, Top1Accuracy: 0.6612, Top3Accuracy: 0.8426, Top5Accuracy: 0.8974, Time consumed:1.80s
+
+Training Epoch: 254 [32/50000]	Loss: 1.0170	LR: 0.000264
+Evaluating Network.....
+Test set: Epoch: 254, Average loss: 0.0415, Top1Accuracy: 0.6581, Top3Accuracy: 0.8459, Top5Accuracy: 0.8969, Time consumed:1.79s
+
+Training Epoch: 255 [32/50000]	Loss: 0.6274	LR: 0.000257
+Evaluating Network.....
+Test set: Epoch: 255, Average loss: 0.0411, Top1Accuracy: 0.6636, Top3Accuracy: 0.8439, Top5Accuracy: 0.8989, Time consumed:2.21s
+
+Training Epoch: 256 [32/50000]	Loss: 0.7301	LR: 0.000250
+Evaluating Network.....
+Test set: Epoch: 256, Average loss: 0.0409, Top1Accuracy: 0.6631, Top3Accuracy: 0.8438, Top5Accuracy: 0.8963, Time consumed:1.81s
+
+Training Epoch: 257 [32/50000]	Loss: 0.6347	LR: 0.000244
+Evaluating Network.....
+Test set: Epoch: 257, Average loss: 0.0414, Top1Accuracy: 0.6649, Top3Accuracy: 0.8439, Top5Accuracy: 0.8945, Time consumed:1.79s
+
+Training Epoch: 258 [32/50000]	Loss: 0.5503	LR: 0.000237
+Evaluating Network.....
+Test set: Epoch: 258, Average loss: 0.0405, Top1Accuracy: 0.6705, Top3Accuracy: 0.8474, Top5Accuracy: 0.8977, Time consumed:1.75s
+
+Training Epoch: 259 [32/50000]	Loss: 0.5027	LR: 0.000231
+Evaluating Network.....
+Test set: Epoch: 259, Average loss: 0.0410, Top1Accuracy: 0.6667, Top3Accuracy: 0.8429, Top5Accuracy: 0.8964, Time consumed:1.90s
+
+Training Epoch: 260 [32/50000]	Loss: 0.5853	LR: 0.000225
+Evaluating Network.....
+Test set: Epoch: 260, Average loss: 0.0410, Top1Accuracy: 0.6635, Top3Accuracy: 0.8458, Top5Accuracy: 0.8976, Time consumed:1.81s
+
+Training Epoch: 261 [32/50000]	Loss: 0.6948	LR: 0.000219
+Evaluating Network.....
+Test set: Epoch: 261, Average loss: 0.0411, Top1Accuracy: 0.6637, Top3Accuracy: 0.8438, Top5Accuracy: 0.8981, Time consumed:1.78s
+
+Training Epoch: 262 [32/50000]	Loss: 0.5296	LR: 0.000213
+Evaluating Network.....
+Test set: Epoch: 262, Average loss: 0.0411, Top1Accuracy: 0.6654, Top3Accuracy: 0.8440, Top5Accuracy: 0.8982, Time consumed:1.80s
+
+Training Epoch: 263 [32/50000]	Loss: 0.4855	LR: 0.000208
+Evaluating Network.....
+Test set: Epoch: 263, Average loss: 0.0411, Top1Accuracy: 0.6630, Top3Accuracy: 0.8432, Top5Accuracy: 0.8973, Time consumed:1.79s
+
+Training Epoch: 264 [32/50000]	Loss: 0.6115	LR: 0.000202
+Evaluating Network.....
+Test set: Epoch: 264, Average loss: 0.0414, Top1Accuracy: 0.6638, Top3Accuracy: 0.8431, Top5Accuracy: 0.9003, Time consumed:1.78s
+
+Training Epoch: 265 [32/50000]	Loss: 0.5672	LR: 0.000197
+Evaluating Network.....
+Test set: Epoch: 265, Average loss: 0.0416, Top1Accuracy: 0.6638, Top3Accuracy: 0.8459, Top5Accuracy: 0.8994, Time consumed:1.77s
+
+Training Epoch: 266 [32/50000]	Loss: 0.7021	LR: 0.000192
+Evaluating Network.....
+Test set: Epoch: 266, Average loss: 0.0417, Top1Accuracy: 0.6635, Top3Accuracy: 0.8410, Top5Accuracy: 0.8971, Time consumed:1.77s
+
+Training Epoch: 267 [32/50000]	Loss: 0.6815	LR: 0.000187
+Evaluating Network.....
+Test set: Epoch: 267, Average loss: 0.0414, Top1Accuracy: 0.6652, Top3Accuracy: 0.8438, Top5Accuracy: 0.8961, Time consumed:1.91s
+
+Training Epoch: 268 [32/50000]	Loss: 0.6697	LR: 0.000182
+Evaluating Network.....
+Test set: Epoch: 268, Average loss: 0.0416, Top1Accuracy: 0.6646, Top3Accuracy: 0.8424, Top5Accuracy: 0.8983, Time consumed:1.77s
+
+Training Epoch: 269 [32/50000]	Loss: 0.4735	LR: 0.000177
+Evaluating Network.....
+Test set: Epoch: 269, Average loss: 0.0414, Top1Accuracy: 0.6627, Top3Accuracy: 0.8430, Top5Accuracy: 0.8960, Time consumed:1.78s
+
+Training Epoch: 270 [32/50000]	Loss: 0.8186	LR: 0.000172
+Evaluating Network.....
+Test set: Epoch: 270, Average loss: 0.0409, Top1Accuracy: 0.6650, Top3Accuracy: 0.8431, Top5Accuracy: 0.9003, Time consumed:1.78s
+
+Training Epoch: 271 [32/50000]	Loss: 0.6256	LR: 0.000168
+Evaluating Network.....
+Test set: Epoch: 271, Average loss: 0.0422, Top1Accuracy: 0.6628, Top3Accuracy: 0.8390, Top5Accuracy: 0.8923, Time consumed:1.75s
+
+Training Epoch: 272 [32/50000]	Loss: 0.5561	LR: 0.000163
+Evaluating Network.....
+Test set: Epoch: 272, Average loss: 0.0413, Top1Accuracy: 0.6642, Top3Accuracy: 0.8436, Top5Accuracy: 0.8971, Time consumed:1.81s
+
+Training Epoch: 273 [32/50000]	Loss: 0.3859	LR: 0.000159
+Evaluating Network.....
+Test set: Epoch: 273, Average loss: 0.0416, Top1Accuracy: 0.6649, Top3Accuracy: 0.8447, Top5Accuracy: 0.8971, Time consumed:1.93s
+
+Training Epoch: 274 [32/50000]	Loss: 0.4410	LR: 0.000155
+Evaluating Network.....
+Test set: Epoch: 274, Average loss: 0.0420, Top1Accuracy: 0.6635, Top3Accuracy: 0.8439, Top5Accuracy: 0.8959, Time consumed:1.78s
+
+Training Epoch: 275 [32/50000]	Loss: 0.5744	LR: 0.000151
+Evaluating Network.....
+Test set: Epoch: 275, Average loss: 0.0414, Top1Accuracy: 0.6654, Top3Accuracy: 0.8437, Top5Accuracy: 0.8983, Time consumed:1.93s
+
+Training Epoch: 276 [32/50000]	Loss: 0.5655	LR: 0.000147
+Evaluating Network.....
+Test set: Epoch: 276, Average loss: 0.0417, Top1Accuracy: 0.6654, Top3Accuracy: 0.8427, Top5Accuracy: 0.8986, Time consumed:1.83s
+
+Training Epoch: 277 [32/50000]	Loss: 0.3656	LR: 0.000143
+Evaluating Network.....
+Test set: Epoch: 277, Average loss: 0.0416, Top1Accuracy: 0.6655, Top3Accuracy: 0.8452, Top5Accuracy: 0.8977, Time consumed:1.79s
+
+Training Epoch: 278 [32/50000]	Loss: 0.4156	LR: 0.000139
+Evaluating Network.....
+Test set: Epoch: 278, Average loss: 0.0416, Top1Accuracy: 0.6641, Top3Accuracy: 0.8408, Top5Accuracy: 0.8974, Time consumed:1.78s
+
+Training Epoch: 279 [32/50000]	Loss: 0.8162	LR: 0.000135
+Evaluating Network.....
+Test set: Epoch: 279, Average loss: 0.0417, Top1Accuracy: 0.6638, Top3Accuracy: 0.8431, Top5Accuracy: 0.8964, Time consumed:1.82s
+
+Training Epoch: 280 [32/50000]	Loss: 0.3701	LR: 0.000132
+Evaluating Network.....
+Test set: Epoch: 280, Average loss: 0.0416, Top1Accuracy: 0.6622, Top3Accuracy: 0.8430, Top5Accuracy: 0.8964, Time consumed:1.82s
+
+Training Epoch: 281 [32/50000]	Loss: 0.6780	LR: 0.000128
+Evaluating Network.....
+Test set: Epoch: 281, Average loss: 0.0414, Top1Accuracy: 0.6646, Top3Accuracy: 0.8431, Top5Accuracy: 0.9001, Time consumed:1.81s
+
+Training Epoch: 282 [32/50000]	Loss: 0.6756	LR: 0.000125
+Evaluating Network.....
+Test set: Epoch: 282, Average loss: 0.0417, Top1Accuracy: 0.6648, Top3Accuracy: 0.8411, Top5Accuracy: 0.8994, Time consumed:1.81s
+
+Training Epoch: 283 [32/50000]	Loss: 0.3553	LR: 0.000122
+Evaluating Network.....
+Test set: Epoch: 283, Average loss: 0.0415, Top1Accuracy: 0.6673, Top3Accuracy: 0.8433, Top5Accuracy: 0.8988, Time consumed:1.89s
+
+Training Epoch: 284 [32/50000]	Loss: 0.5377	LR: 0.000118
+Evaluating Network.....
+Test set: Epoch: 284, Average loss: 0.0420, Top1Accuracy: 0.6653, Top3Accuracy: 0.8430, Top5Accuracy: 0.8959, Time consumed:1.74s
+
+Training Epoch: 285 [32/50000]	Loss: 0.6242	LR: 0.000115
+Evaluating Network.....
+Test set: Epoch: 285, Average loss: 0.0415, Top1Accuracy: 0.6648, Top3Accuracy: 0.8458, Top5Accuracy: 0.8969, Time consumed:1.77s
+
+Training Epoch: 286 [32/50000]	Loss: 0.8751	LR: 0.000112
+Evaluating Network.....
+Test set: Epoch: 286, Average loss: 0.0416, Top1Accuracy: 0.6656, Top3Accuracy: 0.8421, Top5Accuracy: 0.8969, Time consumed:1.76s
+
+Training Epoch: 287 [32/50000]	Loss: 0.6671	LR: 0.000109
+Evaluating Network.....
+Test set: Epoch: 287, Average loss: 0.0415, Top1Accuracy: 0.6668, Top3Accuracy: 0.8425, Top5Accuracy: 0.8971, Time consumed:1.82s
+
+Training Epoch: 288 [32/50000]	Loss: 0.5060	LR: 0.000106
+Evaluating Network.....
+Test set: Epoch: 288, Average loss: 0.0416, Top1Accuracy: 0.6635, Top3Accuracy: 0.8432, Top5Accuracy: 0.8970, Time consumed:1.83s
+
+Training Epoch: 289 [32/50000]	Loss: 0.9250	LR: 0.000104
+Evaluating Network.....
+Test set: Epoch: 289, Average loss: 0.0417, Top1Accuracy: 0.6635, Top3Accuracy: 0.8435, Top5Accuracy: 0.8972, Time consumed:1.89s
+
+Training Epoch: 290 [32/50000]	Loss: 0.5766	LR: 0.000101
+Evaluating Network.....
+Test set: Epoch: 290, Average loss: 0.0419, Top1Accuracy: 0.6648, Top3Accuracy: 0.8443, Top5Accuracy: 0.8978, Time consumed:1.80s
+
+Training Epoch: 291 [32/50000]	Loss: 0.4802	LR: 0.000098
+Evaluating Network.....
+Test set: Epoch: 291, Average loss: 0.0417, Top1Accuracy: 0.6630, Top3Accuracy: 0.8435, Top5Accuracy: 0.8977, Time consumed:1.86s
+
+Training Epoch: 292 [32/50000]	Loss: 0.5643	LR: 0.000096
+Evaluating Network.....
+Test set: Epoch: 292, Average loss: 0.0417, Top1Accuracy: 0.6632, Top3Accuracy: 0.8450, Top5Accuracy: 0.8993, Time consumed:1.88s
+
+Training Epoch: 293 [32/50000]	Loss: 0.4762	LR: 0.000093
+Evaluating Network.....
+Test set: Epoch: 293, Average loss: 0.0413, Top1Accuracy: 0.6663, Top3Accuracy: 0.8446, Top5Accuracy: 0.9003, Time consumed:1.77s
+
+Training Epoch: 294 [32/50000]	Loss: 0.2924	LR: 0.000091
+Evaluating Network.....
+Test set: Epoch: 294, Average loss: 0.0411, Top1Accuracy: 0.6654, Top3Accuracy: 0.8453, Top5Accuracy: 0.9006, Time consumed:1.77s
+
+Training Epoch: 295 [32/50000]	Loss: 0.4851	LR: 0.000088
+Evaluating Network.....
+Test set: Epoch: 295, Average loss: 0.0421, Top1Accuracy: 0.6616, Top3Accuracy: 0.8459, Top5Accuracy: 0.8992, Time consumed:1.80s
+
+Training Epoch: 296 [32/50000]	Loss: 0.3764	LR: 0.000086
+Evaluating Network.....
+Test set: Epoch: 296, Average loss: 0.0422, Top1Accuracy: 0.6584, Top3Accuracy: 0.8434, Top5Accuracy: 0.8985, Time consumed:1.79s
+
+Training Epoch: 297 [32/50000]	Loss: 0.6142	LR: 0.000084
+Evaluating Network.....
+Test set: Epoch: 297, Average loss: 0.0418, Top1Accuracy: 0.6637, Top3Accuracy: 0.8457, Top5Accuracy: 0.8984, Time consumed:1.76s
+
+Training Epoch: 298 [32/50000]	Loss: 0.3672	LR: 0.000081
+Evaluating Network.....
+Test set: Epoch: 298, Average loss: 0.0420, Top1Accuracy: 0.6608, Top3Accuracy: 0.8435, Top5Accuracy: 0.8984, Time consumed:1.76s
+
+Training Epoch: 299 [32/50000]	Loss: 0.4011	LR: 0.000079
+Evaluating Network.....
+Test set: Epoch: 299, Average loss: 0.0419, Top1Accuracy: 0.6613, Top3Accuracy: 0.8410, Top5Accuracy: 0.8972, Time consumed:1.76s
+
+Training Epoch: 300 [32/50000]	Loss: 0.4119	LR: 0.000077
+Evaluating Network.....
+Test set: Epoch: 300, Average loss: 0.0422, Top1Accuracy: 0.6605, Top3Accuracy: 0.8427, Top5Accuracy: 0.8989, Time consumed:1.68s
+
+Training Epoch: 301 [32/50000]	Loss: 0.2798	LR: 0.000075
+Evaluating Network.....
+Test set: Epoch: 301, Average loss: 0.0420, Top1Accuracy: 0.6627, Top3Accuracy: 0.8421, Top5Accuracy: 0.8985, Time consumed:1.76s
+
+Training Epoch: 302 [32/50000]	Loss: 0.5846	LR: 0.000073
+Evaluating Network.....
+Test set: Epoch: 302, Average loss: 0.0420, Top1Accuracy: 0.6656, Top3Accuracy: 0.8447, Top5Accuracy: 0.8980, Time consumed:1.79s
+
+Training Epoch: 303 [32/50000]	Loss: 0.4629	LR: 0.000071
+Evaluating Network.....
+Test set: Epoch: 303, Average loss: 0.0419, Top1Accuracy: 0.6651, Top3Accuracy: 0.8458, Top5Accuracy: 0.8983, Time consumed:1.96s
+
+Training Epoch: 304 [32/50000]	Loss: 0.3758	LR: 0.000069
+Evaluating Network.....
+Test set: Epoch: 304, Average loss: 0.0421, Top1Accuracy: 0.6662, Top3Accuracy: 0.8445, Top5Accuracy: 0.8971, Time consumed:1.98s
+
+Training Epoch: 305 [32/50000]	Loss: 0.3347	LR: 0.000068
+Evaluating Network.....
+Test set: Epoch: 305, Average loss: 0.0417, Top1Accuracy: 0.6620, Top3Accuracy: 0.8466, Top5Accuracy: 0.9005, Time consumed:1.79s
+
+Training Epoch: 306 [32/50000]	Loss: 0.6293	LR: 0.000066
+Evaluating Network.....
+Test set: Epoch: 306, Average loss: 0.0422, Top1Accuracy: 0.6620, Top3Accuracy: 0.8436, Top5Accuracy: 0.8996, Time consumed:1.92s
+
+Training Epoch: 307 [32/50000]	Loss: 0.4479	LR: 0.000064
+Evaluating Network.....
+Test set: Epoch: 307, Average loss: 0.0423, Top1Accuracy: 0.6620, Top3Accuracy: 0.8459, Top5Accuracy: 0.9000, Time consumed:1.80s
+
+Training Epoch: 308 [32/50000]	Loss: 0.3732	LR: 0.000062
+Evaluating Network.....
+Test set: Epoch: 308, Average loss: 0.0417, Top1Accuracy: 0.6637, Top3Accuracy: 0.8471, Top5Accuracy: 0.9001, Time consumed:1.81s
+
+Training Epoch: 309 [32/50000]	Loss: 0.4872	LR: 0.000061
+Evaluating Network.....
+Test set: Epoch: 309, Average loss: 0.0420, Top1Accuracy: 0.6629, Top3Accuracy: 0.8456, Top5Accuracy: 0.8988, Time consumed:1.84s
+
+Training Epoch: 310 [32/50000]	Loss: 0.2887	LR: 0.000059
+Evaluating Network.....
+Test set: Epoch: 310, Average loss: 0.0419, Top1Accuracy: 0.6631, Top3Accuracy: 0.8456, Top5Accuracy: 0.9015, Time consumed:1.83s
+
+Training Epoch: 311 [32/50000]	Loss: 0.5355	LR: 0.000058
+Evaluating Network.....
+Test set: Epoch: 311, Average loss: 0.0422, Top1Accuracy: 0.6628, Top3Accuracy: 0.8442, Top5Accuracy: 0.9007, Time consumed:1.77s
+
+Training Epoch: 312 [32/50000]	Loss: 0.4077	LR: 0.000056
+Evaluating Network.....
+Test set: Epoch: 312, Average loss: 0.0418, Top1Accuracy: 0.6621, Top3Accuracy: 0.8440, Top5Accuracy: 0.9011, Time consumed:1.77s
+
+Training Epoch: 313 [32/50000]	Loss: 0.6955	LR: 0.000055
+Evaluating Network.....
+Test set: Epoch: 313, Average loss: 0.0422, Top1Accuracy: 0.6645, Top3Accuracy: 0.8424, Top5Accuracy: 0.8990, Time consumed:1.75s
+
+Training Epoch: 314 [32/50000]	Loss: 0.5534	LR: 0.000053
+Evaluating Network.....
+Test set: Epoch: 314, Average loss: 0.0418, Top1Accuracy: 0.6665, Top3Accuracy: 0.8460, Top5Accuracy: 0.8991, Time consumed:1.92s
+
+Training Epoch: 315 [32/50000]	Loss: 0.3755	LR: 0.000052
+Evaluating Network.....
+Test set: Epoch: 315, Average loss: 0.0419, Top1Accuracy: 0.6620, Top3Accuracy: 0.8440, Top5Accuracy: 0.8996, Time consumed:1.78s
+
+Training Epoch: 316 [32/50000]	Loss: 0.6834	LR: 0.000050
+Evaluating Network.....
+Test set: Epoch: 316, Average loss: 0.0420, Top1Accuracy: 0.6644, Top3Accuracy: 0.8460, Top5Accuracy: 0.8975, Time consumed:1.78s
+
+Training Epoch: 317 [32/50000]	Loss: 0.5362	LR: 0.000049
+Evaluating Network.....
+Test set: Epoch: 317, Average loss: 0.0417, Top1Accuracy: 0.6634, Top3Accuracy: 0.8440, Top5Accuracy: 0.8995, Time consumed:1.77s
+
+Training Epoch: 318 [32/50000]	Loss: 0.2749	LR: 0.000048
+Evaluating Network.....
+Test set: Epoch: 318, Average loss: 0.0423, Top1Accuracy: 0.6617, Top3Accuracy: 0.8438, Top5Accuracy: 0.8986, Time consumed:1.77s
+
+Training Epoch: 319 [32/50000]	Loss: 0.8779	LR: 0.000046
+Evaluating Network.....
+Test set: Epoch: 319, Average loss: 0.0421, Top1Accuracy: 0.6646, Top3Accuracy: 0.8453, Top5Accuracy: 0.8982, Time consumed:1.81s
+
+Training Epoch: 320 [32/50000]	Loss: 0.5315	LR: 0.000045
+Evaluating Network.....
+Test set: Epoch: 320, Average loss: 0.0421, Top1Accuracy: 0.6586, Top3Accuracy: 0.8438, Top5Accuracy: 0.8982, Time consumed:1.84s
+
+Training Epoch: 321 [32/50000]	Loss: 0.3087	LR: 0.000044
+Evaluating Network.....
+Test set: Epoch: 321, Average loss: 0.0418, Top1Accuracy: 0.6640, Top3Accuracy: 0.8468, Top5Accuracy: 0.8989, Time consumed:1.81s
+
+Training Epoch: 322 [32/50000]	Loss: 0.3997	LR: 0.000043
+Evaluating Network.....
+Test set: Epoch: 322, Average loss: 0.0422, Top1Accuracy: 0.6618, Top3Accuracy: 0.8430, Top5Accuracy: 0.8974, Time consumed:1.75s
+
+Training Epoch: 323 [32/50000]	Loss: 0.4546	LR: 0.000042
+Evaluating Network.....
+Test set: Epoch: 323, Average loss: 0.0419, Top1Accuracy: 0.6623, Top3Accuracy: 0.8467, Top5Accuracy: 0.8992, Time consumed:1.95s
+
+Training Epoch: 324 [32/50000]	Loss: 0.5747	LR: 0.000041
+Evaluating Network.....
+Test set: Epoch: 324, Average loss: 0.0419, Top1Accuracy: 0.6645, Top3Accuracy: 0.8457, Top5Accuracy: 0.8982, Time consumed:1.74s
+
+Training Epoch: 325 [32/50000]	Loss: 0.3453	LR: 0.000040
+Evaluating Network.....
+Test set: Epoch: 325, Average loss: 0.0421, Top1Accuracy: 0.6632, Top3Accuracy: 0.8415, Top5Accuracy: 0.8973, Time consumed:1.77s
+
+Training Epoch: 326 [32/50000]	Loss: 0.3555	LR: 0.000038
+Evaluating Network.....
+Test set: Epoch: 326, Average loss: 0.0424, Top1Accuracy: 0.6634, Top3Accuracy: 0.8427, Top5Accuracy: 0.8986, Time consumed:1.74s
+
+Training Epoch: 327 [32/50000]	Loss: 0.5265	LR: 0.000037
+Evaluating Network.....
+Test set: Epoch: 327, Average loss: 0.0422, Top1Accuracy: 0.6619, Top3Accuracy: 0.8465, Top5Accuracy: 0.9007, Time consumed:1.77s
+
+Training Epoch: 328 [32/50000]	Loss: 0.4237	LR: 0.000036
+Evaluating Network.....
+Test set: Epoch: 328, Average loss: 0.0420, Top1Accuracy: 0.6660, Top3Accuracy: 0.8457, Top5Accuracy: 0.8985, Time consumed:1.79s
+
+Training Epoch: 329 [32/50000]	Loss: 0.6699	LR: 0.000036
+Evaluating Network.....
+Test set: Epoch: 329, Average loss: 0.0419, Top1Accuracy: 0.6648, Top3Accuracy: 0.8455, Top5Accuracy: 0.8991, Time consumed:1.78s
+
+Training Epoch: 330 [32/50000]	Loss: 0.6677	LR: 0.000035
+Evaluating Network.....
+Test set: Epoch: 330, Average loss: 0.0420, Top1Accuracy: 0.6625, Top3Accuracy: 0.8450, Top5Accuracy: 0.9005, Time consumed:1.79s
+
+Training Epoch: 331 [32/50000]	Loss: 0.4956	LR: 0.000034
+Evaluating Network.....
+Test set: Epoch: 331, Average loss: 0.0419, Top1Accuracy: 0.6650, Top3Accuracy: 0.8445, Top5Accuracy: 0.8993, Time consumed:1.79s
+
+Training Epoch: 332 [32/50000]	Loss: 0.2336	LR: 0.000033
+Evaluating Network.....
+Test set: Epoch: 332, Average loss: 0.0421, Top1Accuracy: 0.6648, Top3Accuracy: 0.8423, Top5Accuracy: 0.8976, Time consumed:1.79s
+
+Training Epoch: 333 [32/50000]	Loss: 0.1783	LR: 0.000032
+Evaluating Network.....
+Test set: Epoch: 333, Average loss: 0.0418, Top1Accuracy: 0.6624, Top3Accuracy: 0.8442, Top5Accuracy: 0.8992, Time consumed:1.88s
+
+Training Epoch: 334 [32/50000]	Loss: 0.3609	LR: 0.000031
+Evaluating Network.....
+Test set: Epoch: 334, Average loss: 0.0422, Top1Accuracy: 0.6645, Top3Accuracy: 0.8447, Top5Accuracy: 0.8968, Time consumed:1.84s
+
+Training Epoch: 335 [32/50000]	Loss: 0.5279	LR: 0.000030
+Evaluating Network.....
+Test set: Epoch: 335, Average loss: 0.0420, Top1Accuracy: 0.6612, Top3Accuracy: 0.8455, Top5Accuracy: 0.8981, Time consumed:1.86s
+
+Training Epoch: 336 [32/50000]	Loss: 0.4814	LR: 0.000029
+Evaluating Network.....
+Test set: Epoch: 336, Average loss: 0.0421, Top1Accuracy: 0.6587, Top3Accuracy: 0.8427, Top5Accuracy: 0.9000, Time consumed:1.79s
+
+Training Epoch: 337 [32/50000]	Loss: 0.4873	LR: 0.000029
+Evaluating Network.....
+Test set: Epoch: 337, Average loss: 0.0421, Top1Accuracy: 0.6636, Top3Accuracy: 0.8436, Top5Accuracy: 0.8989, Time consumed:1.85s
+
+Training Epoch: 338 [32/50000]	Loss: 0.3868	LR: 0.000028
+Evaluating Network.....
+Test set: Epoch: 338, Average loss: 0.0425, Top1Accuracy: 0.6638, Top3Accuracy: 0.8443, Top5Accuracy: 0.8999, Time consumed:1.76s
+
+Training Epoch: 339 [32/50000]	Loss: 0.4637	LR: 0.000027
+Evaluating Network.....
+Test set: Epoch: 339, Average loss: 0.0423, Top1Accuracy: 0.6631, Top3Accuracy: 0.8423, Top5Accuracy: 0.8996, Time consumed:1.81s
+
+Training Epoch: 340 [32/50000]	Loss: 0.4605	LR: 0.000026
+Evaluating Network.....
+Test set: Epoch: 340, Average loss: 0.0421, Top1Accuracy: 0.6618, Top3Accuracy: 0.8442, Top5Accuracy: 0.9001, Time consumed:1.74s
+
+Training Epoch: 341 [32/50000]	Loss: 0.3932	LR: 0.000026
+Evaluating Network.....
+Test set: Epoch: 341, Average loss: 0.0420, Top1Accuracy: 0.6659, Top3Accuracy: 0.8458, Top5Accuracy: 0.8987, Time consumed:1.76s
+
+Training Epoch: 342 [32/50000]	Loss: 0.4663	LR: 0.000025
+Evaluating Network.....
+Test set: Epoch: 342, Average loss: 0.0422, Top1Accuracy: 0.6644, Top3Accuracy: 0.8454, Top5Accuracy: 0.8985, Time consumed:1.78s
+
+Training Epoch: 343 [32/50000]	Loss: 0.6549	LR: 0.000024
+Evaluating Network.....
+Test set: Epoch: 343, Average loss: 0.0420, Top1Accuracy: 0.6602, Top3Accuracy: 0.8428, Top5Accuracy: 0.8986, Time consumed:1.82s
+
+Training Epoch: 344 [32/50000]	Loss: 0.4014	LR: 0.000024
+Evaluating Network.....
+Test set: Epoch: 344, Average loss: 0.0422, Top1Accuracy: 0.6630, Top3Accuracy: 0.8438, Top5Accuracy: 0.8976, Time consumed:1.82s
+
+Training Epoch: 345 [32/50000]	Loss: 0.5728	LR: 0.000023
+Evaluating Network.....
+Test set: Epoch: 345, Average loss: 0.0421, Top1Accuracy: 0.6656, Top3Accuracy: 0.8431, Top5Accuracy: 0.8959, Time consumed:1.75s
+
+Training Epoch: 346 [32/50000]	Loss: 0.5291	LR: 0.000023
+Evaluating Network.....
+Test set: Epoch: 346, Average loss: 0.0419, Top1Accuracy: 0.6645, Top3Accuracy: 0.8436, Top5Accuracy: 0.8991, Time consumed:1.79s
+
+Training Epoch: 347 [32/50000]	Loss: 0.4371	LR: 0.000022
+Evaluating Network.....
+Test set: Epoch: 347, Average loss: 0.0420, Top1Accuracy: 0.6644, Top3Accuracy: 0.8455, Top5Accuracy: 0.8977, Time consumed:1.82s
+
+Training Epoch: 348 [32/50000]	Loss: 0.4750	LR: 0.000021
+Evaluating Network.....
+Test set: Epoch: 348, Average loss: 0.0421, Top1Accuracy: 0.6645, Top3Accuracy: 0.8447, Top5Accuracy: 0.8990, Time consumed:1.96s
+
+Training Epoch: 349 [32/50000]	Loss: 0.6253	LR: 0.000021
+Evaluating Network.....
+Test set: Epoch: 349, Average loss: 0.0423, Top1Accuracy: 0.6641, Top3Accuracy: 0.8431, Top5Accuracy: 0.8967, Time consumed:1.83s
+
+Training Epoch: 350 [32/50000]	Loss: 0.3073	LR: 0.000020
+Evaluating Network.....
+Test set: Epoch: 350, Average loss: 0.0418, Top1Accuracy: 0.6657, Top3Accuracy: 0.8436, Top5Accuracy: 0.9005, Time consumed:1.80s
+
+Training Epoch: 351 [32/50000]	Loss: 0.6110	LR: 0.000020
+Evaluating Network.....
+Test set: Epoch: 351, Average loss: 0.0421, Top1Accuracy: 0.6649, Top3Accuracy: 0.8450, Top5Accuracy: 0.8988, Time consumed:1.76s
+
+Training Epoch: 352 [32/50000]	Loss: 0.4902	LR: 0.000019
+Evaluating Network.....
+Test set: Epoch: 352, Average loss: 0.0421, Top1Accuracy: 0.6626, Top3Accuracy: 0.8441, Top5Accuracy: 0.8968, Time consumed:1.84s
+
+Training Epoch: 353 [32/50000]	Loss: 0.5287	LR: 0.000019
+Evaluating Network.....
+Test set: Epoch: 353, Average loss: 0.0419, Top1Accuracy: 0.6657, Top3Accuracy: 0.8437, Top5Accuracy: 0.8981, Time consumed:1.73s
+
+Training Epoch: 354 [32/50000]	Loss: 0.5186	LR: 0.000018
+Evaluating Network.....
+Test set: Epoch: 354, Average loss: 0.0420, Top1Accuracy: 0.6662, Top3Accuracy: 0.8447, Top5Accuracy: 0.9002, Time consumed:1.84s
+
+Training Epoch: 355 [32/50000]	Loss: 0.4395	LR: 0.000018
+Evaluating Network.....
+Test set: Epoch: 355, Average loss: 0.0422, Top1Accuracy: 0.6665, Top3Accuracy: 0.8429, Top5Accuracy: 0.8985, Time consumed:1.76s
+
+Training Epoch: 356 [32/50000]	Loss: 0.3614	LR: 0.000017
+Evaluating Network.....
+Test set: Epoch: 356, Average loss: 0.0423, Top1Accuracy: 0.6649, Top3Accuracy: 0.8443, Top5Accuracy: 0.8990, Time consumed:1.81s
+
+Training Epoch: 357 [32/50000]	Loss: 0.2322	LR: 0.000017
+Evaluating Network.....
+Test set: Epoch: 357, Average loss: 0.0421, Top1Accuracy: 0.6655, Top3Accuracy: 0.8453, Top5Accuracy: 0.8991, Time consumed:1.82s
+
+Training Epoch: 358 [32/50000]	Loss: 0.4077	LR: 0.000016
+Evaluating Network.....
+Test set: Epoch: 358, Average loss: 0.0423, Top1Accuracy: 0.6620, Top3Accuracy: 0.8436, Top5Accuracy: 0.8999, Time consumed:1.79s
+
+Training Epoch: 359 [32/50000]	Loss: 0.4502	LR: 0.000016
+Evaluating Network.....
+Test set: Epoch: 359, Average loss: 0.0425, Top1Accuracy: 0.6648, Top3Accuracy: 0.8436, Top5Accuracy: 0.8968, Time consumed:1.80s
+
+Training Epoch: 360 [32/50000]	Loss: 0.3932	LR: 0.000016
+Evaluating Network.....
+Test set: Epoch: 360, Average loss: 0.0423, Top1Accuracy: 0.6641, Top3Accuracy: 0.8449, Top5Accuracy: 0.8983, Time consumed:1.88s
+
+Training Epoch: 361 [32/50000]	Loss: 0.3452	LR: 0.000015
+Evaluating Network.....
+Test set: Epoch: 361, Average loss: 0.0421, Top1Accuracy: 0.6632, Top3Accuracy: 0.8441, Top5Accuracy: 0.8989, Time consumed:1.79s
+
+Training Epoch: 362 [32/50000]	Loss: 0.3250	LR: 0.000015
+Evaluating Network.....
+Test set: Epoch: 362, Average loss: 0.0421, Top1Accuracy: 0.6626, Top3Accuracy: 0.8443, Top5Accuracy: 0.8990, Time consumed:1.80s
+
+Training Epoch: 363 [32/50000]	Loss: 0.6122	LR: 0.000014
+Evaluating Network.....
+Test set: Epoch: 363, Average loss: 0.0422, Top1Accuracy: 0.6635, Top3Accuracy: 0.8421, Top5Accuracy: 0.8983, Time consumed:1.81s
+
+Training Epoch: 364 [32/50000]	Loss: 0.5277	LR: 0.000014
+Evaluating Network.....
+Test set: Epoch: 364, Average loss: 0.0424, Top1Accuracy: 0.6626, Top3Accuracy: 0.8433, Top5Accuracy: 0.8966, Time consumed:1.80s
+
+Training Epoch: 365 [32/50000]	Loss: 0.6240	LR: 0.000014
+Evaluating Network.....
+Test set: Epoch: 365, Average loss: 0.0421, Top1Accuracy: 0.6641, Top3Accuracy: 0.8420, Top5Accuracy: 0.8979, Time consumed:1.82s
+
+Training Epoch: 366 [32/50000]	Loss: 0.2902	LR: 0.000013
+Evaluating Network.....
+Test set: Epoch: 366, Average loss: 0.0421, Top1Accuracy: 0.6632, Top3Accuracy: 0.8446, Top5Accuracy: 0.8975, Time consumed:1.94s
+
+Training Epoch: 367 [32/50000]	Loss: 0.5038	LR: 0.000013
+Evaluating Network.....
+Test set: Epoch: 367, Average loss: 0.0419, Top1Accuracy: 0.6647, Top3Accuracy: 0.8442, Top5Accuracy: 0.8996, Time consumed:1.81s
+
+Training Epoch: 368 [32/50000]	Loss: 0.3923	LR: 0.000013
+Evaluating Network.....
+Test set: Epoch: 368, Average loss: 0.0420, Top1Accuracy: 0.6626, Top3Accuracy: 0.8445, Top5Accuracy: 0.8994, Time consumed:1.90s
+
+Training Epoch: 369 [32/50000]	Loss: 0.5841	LR: 0.000012
+Evaluating Network.....
+Test set: Epoch: 369, Average loss: 0.0419, Top1Accuracy: 0.6639, Top3Accuracy: 0.8454, Top5Accuracy: 0.8998, Time consumed:1.83s
+
+Training Epoch: 370 [32/50000]	Loss: 0.5959	LR: 0.000012
+Evaluating Network.....
+Test set: Epoch: 370, Average loss: 0.0421, Top1Accuracy: 0.6651, Top3Accuracy: 0.8431, Top5Accuracy: 0.8987, Time consumed:1.78s
+
+Training Epoch: 371 [32/50000]	Loss: 0.3088	LR: 0.000012
+Evaluating Network.....
+Test set: Epoch: 371, Average loss: 0.0421, Top1Accuracy: 0.6609, Top3Accuracy: 0.8438, Top5Accuracy: 0.8964, Time consumed:1.78s
+
+Training Epoch: 372 [32/50000]	Loss: 0.5860	LR: 0.000011
+Evaluating Network.....
+Test set: Epoch: 372, Average loss: 0.0422, Top1Accuracy: 0.6624, Top3Accuracy: 0.8423, Top5Accuracy: 0.8977, Time consumed:1.83s
+
+Training Epoch: 373 [32/50000]	Loss: 0.6034	LR: 0.000011
+Evaluating Network.....
+Test set: Epoch: 373, Average loss: 0.0420, Top1Accuracy: 0.6631, Top3Accuracy: 0.8451, Top5Accuracy: 0.8994, Time consumed:1.80s
+
+Training Epoch: 374 [32/50000]	Loss: 0.4451	LR: 0.000011
+Evaluating Network.....
+Test set: Epoch: 374, Average loss: 0.0419, Top1Accuracy: 0.6633, Top3Accuracy: 0.8461, Top5Accuracy: 0.8993, Time consumed:1.83s
+
+Training Epoch: 375 [32/50000]	Loss: 0.4132	LR: 0.000010
+Evaluating Network.....
+Test set: Epoch: 375, Average loss: 0.0422, Top1Accuracy: 0.6614, Top3Accuracy: 0.8464, Top5Accuracy: 0.8991, Time consumed:1.88s
+
+Training Epoch: 376 [32/50000]	Loss: 0.4015	LR: 0.000010
+Evaluating Network.....
+Test set: Epoch: 376, Average loss: 0.0422, Top1Accuracy: 0.6612, Top3Accuracy: 0.8440, Top5Accuracy: 0.8970, Time consumed:1.92s
+
+Training Epoch: 377 [32/50000]	Loss: 0.2975	LR: 0.000010
+Evaluating Network.....
+Test set: Epoch: 377, Average loss: 0.0418, Top1Accuracy: 0.6629, Top3Accuracy: 0.8459, Top5Accuracy: 0.8992, Time consumed:1.80s
+
+Training Epoch: 378 [32/50000]	Loss: 0.5346	LR: 0.000010
+Evaluating Network.....
+Test set: Epoch: 378, Average loss: 0.0422, Top1Accuracy: 0.6651, Top3Accuracy: 0.8426, Top5Accuracy: 0.8981, Time consumed:1.95s
+
+Training Epoch: 379 [32/50000]	Loss: 0.3855	LR: 0.000009
+Evaluating Network.....
+Test set: Epoch: 379, Average loss: 0.0421, Top1Accuracy: 0.6661, Top3Accuracy: 0.8457, Top5Accuracy: 0.8990, Time consumed:1.84s
+
+Training Epoch: 380 [32/50000]	Loss: 0.4213	LR: 0.000009
+Evaluating Network.....
+Test set: Epoch: 380, Average loss: 0.0422, Top1Accuracy: 0.6630, Top3Accuracy: 0.8459, Top5Accuracy: 0.8979, Time consumed:1.93s
+
+Training Epoch: 381 [32/50000]	Loss: 0.5990	LR: 0.000009
+Evaluating Network.....
+Test set: Epoch: 381, Average loss: 0.0419, Top1Accuracy: 0.6627, Top3Accuracy: 0.8453, Top5Accuracy: 0.8978, Time consumed:1.81s
+
+Training Epoch: 382 [32/50000]	Loss: 0.4977	LR: 0.000009
+Evaluating Network.....
+Test set: Epoch: 382, Average loss: 0.0422, Top1Accuracy: 0.6621, Top3Accuracy: 0.8438, Top5Accuracy: 0.8983, Time consumed:1.79s
+
+Training Epoch: 383 [32/50000]	Loss: 0.3714	LR: 0.000008
+Evaluating Network.....
+Test set: Epoch: 383, Average loss: 0.0418, Top1Accuracy: 0.6662, Top3Accuracy: 0.8466, Top5Accuracy: 0.9004, Time consumed:1.83s
+
+Training Epoch: 384 [32/50000]	Loss: 0.3837	LR: 0.000008
+Evaluating Network.....
+Test set: Epoch: 384, Average loss: 0.0420, Top1Accuracy: 0.6623, Top3Accuracy: 0.8456, Top5Accuracy: 0.8983, Time consumed:1.80s
+
+Training Epoch: 385 [32/50000]	Loss: 0.5336	LR: 0.000008
+Evaluating Network.....
+Test set: Epoch: 385, Average loss: 0.0423, Top1Accuracy: 0.6610, Top3Accuracy: 0.8451, Top5Accuracy: 0.8984, Time consumed:1.92s
+
+Training Epoch: 386 [32/50000]	Loss: 0.4596	LR: 0.000008
+Evaluating Network.....
+Test set: Epoch: 386, Average loss: 0.0419, Top1Accuracy: 0.6622, Top3Accuracy: 0.8459, Top5Accuracy: 0.8998, Time consumed:1.89s
+
+Training Epoch: 387 [32/50000]	Loss: 0.4334	LR: 0.000008
+Evaluating Network.....
+Test set: Epoch: 387, Average loss: 0.0422, Top1Accuracy: 0.6621, Top3Accuracy: 0.8439, Top5Accuracy: 0.9005, Time consumed:1.79s
+
+Training Epoch: 388 [32/50000]	Loss: 0.5149	LR: 0.000007
+Evaluating Network.....
+Test set: Epoch: 388, Average loss: 0.0424, Top1Accuracy: 0.6626, Top3Accuracy: 0.8429, Top5Accuracy: 0.8974, Time consumed:1.98s
+
+Training Epoch: 389 [32/50000]	Loss: 0.6239	LR: 0.000007
+Evaluating Network.....
+Test set: Epoch: 389, Average loss: 0.0419, Top1Accuracy: 0.6633, Top3Accuracy: 0.8436, Top5Accuracy: 0.8993, Time consumed:1.81s
+
+Training Epoch: 390 [32/50000]	Loss: 0.2966	LR: 0.000007
+Evaluating Network.....
+Test set: Epoch: 390, Average loss: 0.0423, Top1Accuracy: 0.6632, Top3Accuracy: 0.8418, Top5Accuracy: 0.9003, Time consumed:1.82s
+
+Training Epoch: 391 [32/50000]	Loss: 0.7517	LR: 0.000007
+Evaluating Network.....
+Test set: Epoch: 391, Average loss: 0.0420, Top1Accuracy: 0.6652, Top3Accuracy: 0.8450, Top5Accuracy: 0.8993, Time consumed:1.81s
+
+Training Epoch: 392 [32/50000]	Loss: 0.5156	LR: 0.000007
+Evaluating Network.....
+Test set: Epoch: 392, Average loss: 0.0424, Top1Accuracy: 0.6632, Top3Accuracy: 0.8441, Top5Accuracy: 0.8961, Time consumed:1.83s
+
+Training Epoch: 393 [32/50000]	Loss: 0.4804	LR: 0.000006
+Evaluating Network.....
+Test set: Epoch: 393, Average loss: 0.0423, Top1Accuracy: 0.6623, Top3Accuracy: 0.8420, Top5Accuracy: 0.8970, Time consumed:1.82s
+
+Training Epoch: 394 [32/50000]	Loss: 0.3117	LR: 0.000006
+Evaluating Network.....
+Test set: Epoch: 394, Average loss: 0.0420, Top1Accuracy: 0.6649, Top3Accuracy: 0.8447, Top5Accuracy: 0.8985, Time consumed:1.92s
+
+Training Epoch: 395 [32/50000]	Loss: 0.6689	LR: 0.000006
+Evaluating Network.....
+Test set: Epoch: 395, Average loss: 0.0422, Top1Accuracy: 0.6623, Top3Accuracy: 0.8459, Top5Accuracy: 0.8969, Time consumed:1.81s
+
+Training Epoch: 396 [32/50000]	Loss: 0.5860	LR: 0.000006
+Evaluating Network.....
+Test set: Epoch: 396, Average loss: 0.0425, Top1Accuracy: 0.6632, Top3Accuracy: 0.8432, Top5Accuracy: 0.8986, Time consumed:1.86s
+
+Training Epoch: 397 [32/50000]	Loss: 0.4915	LR: 0.000006
+Evaluating Network.....
+Test set: Epoch: 397, Average loss: 0.0422, Top1Accuracy: 0.6652, Top3Accuracy: 0.8453, Top5Accuracy: 0.8989, Time consumed:1.78s
+
+Training Epoch: 398 [32/50000]	Loss: 0.7570	LR: 0.000006
+Evaluating Network.....
+Test set: Epoch: 398, Average loss: 0.0422, Top1Accuracy: 0.6625, Top3Accuracy: 0.8451, Top5Accuracy: 0.8988, Time consumed:1.95s
+
+Training Epoch: 399 [32/50000]	Loss: 0.2959	LR: 0.000005
+Evaluating Network.....
+Test set: Epoch: 399, Average loss: 0.0424, Top1Accuracy: 0.6609, Top3Accuracy: 0.8456, Top5Accuracy: 0.8998, Time consumed:1.82s
+
+Training Epoch: 400 [32/50000]	Loss: 0.3871	LR: 0.000005
+Evaluating Network.....
+Test set: Epoch: 400, Average loss: 0.0422, Top1Accuracy: 0.6629, Top3Accuracy: 0.8447, Top5Accuracy: 0.8988, Time consumed:1.79s
+
