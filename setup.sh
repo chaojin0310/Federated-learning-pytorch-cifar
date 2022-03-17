@@ -1,7 +1,7 @@
 #!/bin/bash
 set -exu
 
-sudo apt-get install python3
+sudo apt-get -y install python3
 sudo apt-get -y install python3-pip
 sudo apt -y install libjpeg-dev zlib1g-dev
 pip3 install matplotlib
